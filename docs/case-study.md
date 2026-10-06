@@ -1,8 +1,8 @@
-# A multi-role commerce and delivery platform
+# Food and grocery delivery app
 
 ## From the problem to the implementation
 
-Coordinate a customer purchase with merchant preparation, driver delivery and administrative cash reconciliation in one product.
+Order restaurant meals and daily groceries through a mobile app connected to merchant preparation, driver delivery and administration.
 
 Customer chooses an address and products → API calculates the order → merchant prepares → driver accepts an offer → delivery updates tracking → admin reconciles cash and ledger entries.
 
@@ -24,7 +24,7 @@ API and admin production builds passed. Fresh PostgreSQL initialization applied 
 
 ## Deployment experience and evidence limits
 
-Previously deployed and tested. Previously published on Google Play; currently unavailable there. Dates, store removal reasons and usage figures are not recorded.
+Previously deployed and tested. Published on Google Play; the supplied application listing was verified accessible during this portfolio update.
 
 Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent financial updates and multi-device notification delivery remain unverified. Repeated sequential updates passed; this is not proof of every concurrency scenario. Stop the API before Prisma generation/reset on Windows to avoid a locked query-engine DLL.
 

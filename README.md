@@ -1,16 +1,16 @@
 # Lahda
 
-**A multi-role commerce and delivery platform**
+**Food and grocery delivery app**
 
 [العربية](README.ar.md)
 
-Coordinate a customer purchase with merchant preparation, driver delivery and administrative cash reconciliation in one product.
+Order restaurant meals and daily groceries through a mobile app connected to merchant preparation, driver delivery and administration.
 
 **Technology:** React Native · Expo · NestJS · Prisma · PostgreSQL · React
 
 ## Status and deployment history
 
-Previously deployed and tested. Previously published on Google Play; currently unavailable there. Dates, store removal reasons and usage figures are not recorded.
+Previously deployed and tested. Published on Google Play; the supplied application listing was verified accessible during this portfolio update.
 
 This is a sanitized portfolio release. See the current [verification record](docs/verification.md) before choosing a runtime demonstration.
 
@@ -115,3 +115,7 @@ Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent 
 - [Interface walkthrough and video](docs/walkthrough.md)
 
 - [Engineering details and implementation lessons](docs/engineering-notes.md)
+
+## App on Google Play
+
+[Lahda — food and grocery delivery](https://play.google.com/store/apps/details?id=com.lahda.clients&hl=ar)

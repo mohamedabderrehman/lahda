@@ -21,13 +21,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 7700,
-    "sha256": "82d6f0949df8db0516942ff72bce949f3b6a634000d4299199d65c7460a03aec"
+    "bytes": 7839,
+    "sha256": "aa2753b82142199e5a323cf290cb9bd23ae458805706f16401249c65fbf6f7dc"
   },
   {
     "path": "README.md",
-    "bytes": 6853,
-    "sha256": "c8a175436f682e2657db23de3302463c2930a40c0a9f093def0d3a9173b6ece1"
+    "bytes": 6964,
+    "sha256": "e13079b0699651af7cf0c705ca9083d117496f2565921fe05bc13d6f5d60fa65"
   },
   {
     "path": "SECURITY.md",
@@ -1826,13 +1826,13 @@
   },
   {
     "path": "docs/case-study.ar.md",
-    "bytes": 3361,
-    "sha256": "780478bfb935c5c0804ecc9f1d51b4d0eddd4357773a2e2e753a0b093b82ff37"
+    "bytes": 3334,
+    "sha256": "7717678ebf138eb1c0bb4d96a4722f93dba7f59498a61981ee6ff8cdc981afc7"
   },
   {
     "path": "docs/case-study.md",
-    "bytes": 2758,
-    "sha256": "08a04fcf0c35eae64a6ea10d03d38d49ce0b8000f4274ff3f9f1493866ddaf82"
+    "bytes": 2732,
+    "sha256": "cf72e6519d326924d9825291c2f40dedc617be6b68690795c29872ff1d65de23"
   },
   {
     "path": "docs/demo.ar.md",
@@ -1846,13 +1846,13 @@
   },
   {
     "path": "docs/deployment.ar.md",
-    "bytes": 2317,
-    "sha256": "2d4c447e4a9740f8de1ee9772cc2e741b75ed76c7d43e2da2728c7db54087932"
+    "bytes": 2270,
+    "sha256": "2f98548350a25171a3476d102ccb6fbeae588999715475321147723e3a7d70ed"
   },
   {
     "path": "docs/deployment.md",
-    "bytes": 1825,
-    "sha256": "bfb23532c518c826e65edb4a95fe0b9c652fe7acf33e8a6dd7103da28f20358f"
+    "bytes": 1760,
+    "sha256": "0658c07d94ff256236d75969abe592acbabdd319bd4b74bfac6e079db95bbc6c"
   },
   {
     "path": "docs/engineering-notes.ar.md",

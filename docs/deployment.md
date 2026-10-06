@@ -2,9 +2,9 @@
 
 ## Historical status
 
-Previously deployed and tested. Previously published on Google Play; currently unavailable there. Dates, store removal reasons and usage figures are not recorded.
+Previously deployed and tested. Published on Google Play; the supplied application listing was verified accessible during this portfolio update.
 
-نُشر واختُبر سابقاً، وكان متاحاً على Google Play لكنه غير متاح هناك حالياً. لا تتوفر تواريخ موثقة أو أسباب الإزالة أو أرقام الاستخدام.
+نُشر واختُبر سابقاً، ونُشر على Google Play. تم التحقق من الوصول إلى صفحة التطبيق المرفقة أثناء تحديث المعرض.
 
 ## Local release environment
 
