@@ -1,0 +1,502 @@
+[
+  {
+    "path": "customer/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "409b06d15a4633ee6f8a2ad48282aad0ce3343f4d8c8f7cb84084de66acce782",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-hdpi/splashscreen_image.png",
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/assets_applogo.png",
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/assets_applogotransparentbackground.png",
+    "sha256": "578b0335aa05f85c66e26db2777adda76ca987a2da1dda4939904c31e87c0528",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_error.png",
+    "sha256": "337470e7976e461fac1853028c59079447ef77c1a2bd22685684095ef04d1414",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_file.png",
+    "sha256": "9d451494722374e78c363bca9a1612ecd2aff9259fb49912155e6bae2685b2a5",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_forward.png",
+    "sha256": "bda87077fccd3ca54ecff64af6bf49a2f5020cefa4aab9121cba4d92d0a3004b",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_pkg.png",
+    "sha256": "ac270f78154365e1006401f715d6fd93c448237148bbf3ef0ea7eb0c0b235144",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "8b61a4c7ef70dc92753f0494976482f66fd4150ec23dfc772ab65e10373afa55",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png",
+    "sha256": "2c95e8c2675e799335fd0046bb07dbda06cb7ecff51ed37922c6309d619cc4d3",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "340db105985a026666d1d0dc557327de9a9d86c24e124ebf51f5bb095a6251c2",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "906666dd689346ada232ce3689adef907b4257fa1b593f03638d2b9497f64884",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "9dc5451b4a15b9109ca40dd8f628033665d15e3fe2a007385c37f60468a3c8f7",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png",
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "ffa7ee45b76405ba73921495008f7d68c9de6395f4b6941db063465f6e382320",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "23f7e613855954b34fd7959f525544f344ae1fe4699988f60932eba3ebcba88c",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png",
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "84cf5eb3b20250f69e0e4733beb4da5f417f0682892a5ad1b5e62570753c21b1",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png",
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sha256": "4bd38dca85e657c90484dda494b93844d086e3c72d3bcfa1ec061700c227555e",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "sha256": "4bd38dca85e657c90484dda494b93844d086e3c72d3bcfa1ec061700c227555e",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "sha256": "9aa185a3fba34d4a1eef533dcba92567668b9f3a2137bfd5829662b97054b98b",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "sha256": "6a41921fbc997285deda3e173cd5b1fbe03102ea61899f9a8c010119eac89fdd",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "sha256": "6a41921fbc997285deda3e173cd5b1fbe03102ea61899f9a8c010119eac89fdd",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "sha256": "781880fed8014ad57e1d743e5c6eb28e877a68937292aeb967775e08dc1f1b88",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "sha256": "90011acb6ad67df5cec108fec00c472bb41c3d013715c852b26ba65f1a5b7771",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "sha256": "90011acb6ad67df5cec108fec00c472bb41c3d013715c852b26ba65f1a5b7771",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "sha256": "9421c0b85b3252dccfca2d9498cbc5377c681520fd4ea599bd9109627b491fbc",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "sha256": "ce5e34592affce58a02e0bba9022746a33b7c3de202e8f083637671b44ddb179",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "sha256": "ce5e34592affce58a02e0bba9022746a33b7c3de202e8f083637671b44ddb179",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "sha256": "e0f7c932146a36d93c10a64bdcfd42f7e31ef6fb4769192444e587caaab26622",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "sha256": "9a69193284f5edd5c310298b2f22e17439497a17b1d83e7ff0d79da8a6ba85e2",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "sha256": "9a69193284f5edd5c310298b2f22e17439497a17b1d83e7ff0d79da8a6ba85e2",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "sha256": "b1d96ca2dbdd338651b7139306f1d9ad2c8c02d0d5ab3768ebc5d51b7e7d29ea",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_200extralight_cairo_200extralight.ttf",
+    "sha256": "578f271954ad8b4a49459b07255dcf572025daa0045f3364ce738618d5da81cc",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_300light_cairo_300light.ttf",
+    "sha256": "c137f678a3c8b1f12e730fa58f4ddb5334e78719528015765478c9c2de603d57",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_400regular_cairo_400regular.ttf",
+    "sha256": "44786a38e27c58262cbd65341beda4fa4f6c7085ec42e830b35ba1ae37807030",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_500medium_cairo_500medium.ttf",
+    "sha256": "64c7cab8e2cf003c3fc4edca1820e7e1b0ee667373cf8500060bca97262a2b65",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_600semibold_cairo_600semibold.ttf",
+    "sha256": "3fe2e182a88a5d64a96b289fd1c518bdc9b14ec91525a03990c35e91f7863a2a",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_700bold_cairo_700bold.ttf",
+    "sha256": "a0e58d71b85b15902ea87914d8e31a6d22da48ac2db70213dcfd1a7dad3f198a",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_800extrabold_cairo_800extrabold.ttf",
+    "sha256": "67526b4f18bb9bb568e81135df9eec813a15cc1252ae784ea505236e75a5b56e",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_900black_cairo_900black.ttf",
+    "sha256": "34880d805ad84bb9c195becc1379b89986ee1efc8f7858e276234c04f4de63d9",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "customer/assets/adaptive-icon.png",
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/app-logo-transparent-background.png",
+    "sha256": "578b0335aa05f85c66e26db2777adda76ca987a2da1dda4939904c31e87c0528",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/app-logo.png",
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/app-symbol.png",
+    "sha256": "5139a7f24d12e912a5cd0e0eb5db760f2552071b8a3a5b1872a4f87efad25214",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/icon.png",
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/login-register-background.png",
+    "sha256": "62199fa66dce7a8927665bd882e00cb4d84bcfc7bcb572b445999400d6a98fc4",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/splash.png",
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/sunset-3d/delivery-hero.png",
+    "sha256": "f749ed90e840627479db80a80689cdf053054842641b99192ffc3baaec6a82f0",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/sunset-3d/empty-state.png",
+    "sha256": "11ae63e9c08cd2025592b19cda272d815933cfdff53f9773a3341104ecd132b1",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "customer/assets/sunset-3d/order-success.png",
+    "sha256": "687f7c366b1c6d8d99cc79a2c45ff58966c7e371b214c82697cd333254eae7e5",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "docs/images/admin-dashboard.jpg",
+    "sha256": "f5f9dc3150f00ddcf9491d2c82046f9caa4755e4424d7421f4f3530f819a38d6",
+    "scope": "Actual application screenshot; source UI rights and third-party imagery remain separate"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "409b06d15a4633ee6f8a2ad48282aad0ce3343f4d8c8f7cb84084de66acce782",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-hdpi/splashscreen_image.png",
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_error.png",
+    "sha256": "337470e7976e461fac1853028c59079447ef77c1a2bd22685684095ef04d1414",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_file.png",
+    "sha256": "9d451494722374e78c363bca9a1612ecd2aff9259fb49912155e6bae2685b2a5",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_forward.png",
+    "sha256": "bda87077fccd3ca54ecff64af6bf49a2f5020cefa4aab9121cba4d92d0a3004b",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_pkg.png",
+    "sha256": "ac270f78154365e1006401f715d6fd93c448237148bbf3ef0ea7eb0c0b235144",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "8b61a4c7ef70dc92753f0494976482f66fd4150ec23dfc772ab65e10373afa55",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png",
+    "sha256": "2c95e8c2675e799335fd0046bb07dbda06cb7ecff51ed37922c6309d619cc4d3",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "340db105985a026666d1d0dc557327de9a9d86c24e124ebf51f5bb095a6251c2",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "906666dd689346ada232ce3689adef907b4257fa1b593f03638d2b9497f64884",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "9dc5451b4a15b9109ca40dd8f628033665d15e3fe2a007385c37f60468a3c8f7",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png",
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "ffa7ee45b76405ba73921495008f7d68c9de6395f4b6941db063465f6e382320",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "sha256": "23f7e613855954b34fd7959f525544f344ae1fe4699988f60932eba3ebcba88c",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png",
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "sha256": "84cf5eb3b20250f69e0e4733beb4da5f417f0682892a5ad1b5e62570753c21b1",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png",
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "sha256": "0dfa73697ed137b82e14183d6ff0c2999e0a86d3fc2c61a2361d82e0d6553a09",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "sha256": "b3e55014c0a64eee05ec1321cd2aae8abcf3736410155065bc41d6285b75be28",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "sha256": "742070b777e5bc399a8d96763436ce0c0d1e409ed3b4d1a5a2f9aefe5a910dfc",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "sha256": "02d655fed29052a4c3e1ba14140677535aea07e7328f2812fd57d9738766055b",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "sha256": "97e082f7d5cc1a7d137fa2e424ff01eca798c4a75ddeffcaeea3e05fc905eda3",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "sha256": "fca17799e72f2963d49c9a9c6b07b81dbfa8434dc1fe74d6fa70be7bec69d9db",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "sha256": "4eb453e099714b4cda43c151770f12f087b704aa80438528d9fa8708f3f50ae5",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "sha256": "e7017f5741f7bb15b15b3dbecf120f4339f71feb947eb42be5a3d10c4af8b58e",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "sha256": "1ab5ed6db7482354a49f6b5e618c001eed877e2ff5a325970fe46d637f6e1882",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "sha256": "fdcaf612942bb9670ff790bf4f3671aec1bc9a73ce357b9e661a3f8582535468",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "sha256": "7580334a0e6b86e32dd9cb538cf8e5009abf592a2c04fa9cd408b37e4c67ccbf",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "sha256": "92c57965d456427932b2e381feea6f6bbd5c95fc9f08108ece35e5c79991ca99",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "sha256": "806d06e9e8f0cd77f8f9a9ae0f8c6c6abb873d31f7d77481ebacf753f8f2a952",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "sha256": "4877e750fb62b54e926ab3c1e2abc7ff08c2bcf5893cd23d81f12817467e7c1c",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "sha256": "8b2da48ad563aec02113a030154e6ca8ce15af8cbe3234c88d78debf44859267",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_200extralight_cairo_200extralight.ttf",
+    "sha256": "578f271954ad8b4a49459b07255dcf572025daa0045f3364ce738618d5da81cc",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_300light_cairo_300light.ttf",
+    "sha256": "c137f678a3c8b1f12e730fa58f4ddb5334e78719528015765478c9c2de603d57",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_400regular_cairo_400regular.ttf",
+    "sha256": "44786a38e27c58262cbd65341beda4fa4f6c7085ec42e830b35ba1ae37807030",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_500medium_cairo_500medium.ttf",
+    "sha256": "64c7cab8e2cf003c3fc4edca1820e7e1b0ee667373cf8500060bca97262a2b65",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_600semibold_cairo_600semibold.ttf",
+    "sha256": "3fe2e182a88a5d64a96b289fd1c518bdc9b14ec91525a03990c35e91f7863a2a",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_700bold_cairo_700bold.ttf",
+    "sha256": "a0e58d71b85b15902ea87914d8e31a6d22da48ac2db70213dcfd1a7dad3f198a",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_800extrabold_cairo_800extrabold.ttf",
+    "sha256": "67526b4f18bb9bb568e81135df9eec813a15cc1252ae784ea505236e75a5b56e",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_900black_cairo_900black.ttf",
+    "sha256": "34880d805ad84bb9c195becc1379b89986ee1efc8f7858e276234c04f4de63d9",
+    "scope": "Generated upstream library asset; package license applies"
+  },
+  {
+    "path": "driver/assets/adaptive-icon.png",
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/assets/app-logo.png",
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/assets/icon.png",
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/assets/pt-logo.png",
+    "sha256": "1fffe0842b0b42e2ddbf717e5487ddbac5041f80d14556a0809d41abce7670e4",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  },
+  {
+    "path": "driver/assets/splash-icon.png",
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77",
+    "scope": "Original application asset; rights retained by its creator, outside the source MIT grant"
+  }
+]

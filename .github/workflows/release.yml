@@ -1,0 +1,38 @@
+name: Release checks
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  checks:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_USER: demo
+          POSTGRES_PASSWORD: synthetic-ci-only
+          POSTGRES_DB: demo
+        ports: ['5432:5432']
+        options: --health-cmd pg_isready --health-interval 5s --health-retries 10
+    env:
+      JWT_SECRET: synthetic-ci-signing-value-for-disposable-tests
+      DEMO_PASSWORD: Synthetic-Demo-2026
+      DATABASE_URL: postgresql://demo:synthetic-ci-only@localhost:5432/demo
+      ADMIN_EMAIL: admin@example.test
+      ADMIN_PASSWORD: Synthetic-Admin-2026
+      SEED_DEMO_DATA: '1'
+      PORT: '2007'
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm ci && npx prisma generate && npx prisma migrate deploy && node prisma/seed.js && node tools/bootstrap-customer.js && npm run build
+        working-directory: api
+      - run: |
+          node dist/main.js > /tmp/lahda.log 2>&1 &
+          for n in $(seq 1 30); do curl -s http://localhost:2007/categories > /dev/null && break; sleep 1; done
+          node tools/check-demo.js
+        working-directory: api
+      - run: npm ci && npm run build
+        working-directory: admin

@@ -1,0 +1,7 @@
+__tests__
+.expo
+.vscode
+*.log
+web-build
+dist
+.git

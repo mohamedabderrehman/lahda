@@ -1,0 +1,61 @@
+{
+  "expo": {
+    "name": "لحظة",
+    "slug": "lahda-customer",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/app-logo.png",
+    "scheme": "lahda",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFF8F1",
+    "splash": {
+      "image": "./assets/app-logo.png",
+      "backgroundColor": "#FFF8F1",
+      "resizeMode": "contain"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.lahda.customer"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/app-logo.png",
+        "backgroundColor": "#FF6B1A"
+      },
+      "package": "app.lahda.customer"
+    },
+    "plugins": [
+      [
+        "./node_modules/@rnmapbox/maps/app.plugin.js",
+        {
+          "RNMapboxMapsImpl": "mapbox"
+        }
+      ],
+      "expo-router",
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/app-logo.png",
+          "color": "#FF6B1A",
+          "defaultChannel": "default"
+        }
+      ]
+    ],
+    "experiments": {
+      "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d9f9887f-5b2d-4195-8150-49a693faed4f"
+      }
+    },
+    "owner": "mouhab0"
+  }
+}

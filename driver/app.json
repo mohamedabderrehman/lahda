@@ -1,0 +1,55 @@
+{
+  "expo": {
+    "name": "Lahda Driver",
+    "slug": "lahda-driver",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/pt-logo.png",
+    "userInterfaceStyle": "light",
+    "scheme": "lahda-driver",
+    "splash": {
+      "backgroundColor": "#2563EB",
+      "resizeMode": "cover"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "app.lahda.driver"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/pt-logo.png",
+        "backgroundColor": "#2563EB"
+      },
+      "package": "app.lahda.driver"
+    },
+    "plugins": [
+      [
+        "./node_modules/@rnmapbox/maps/app.plugin.js",
+        { "RNMapboxMapsImpl": "mapbox" }
+      ],
+      "expo-router",
+      "expo-font",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/pt-logo.png",
+          "color": "#2563EB",
+          "defaultChannel": "default"
+        }
+      ],
+      "./plugins/fix-activity-version"
+    ],
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "14092350-4eec-40f9-acf0-88fc5cb74bef"
+      }
+    },
+    "owner": "mouhab0"
+  }
+}
