@@ -21,13 +21,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 7531,
-    "sha256": "89df09fbd76d19394b2d7cb71620c8d41386bff12fb297147e3945509ae1f041"
+    "bytes": 7611,
+    "sha256": "73cc144760d92d8c726122d798481e9a30dc3e2a84ca5d499ea105ea79f61474"
   },
   {
     "path": "README.md",
-    "bytes": 6704,
-    "sha256": "9514f748a4b19a5bda6e09a140122989b1302b828345824e1761e0b152c49836"
+    "bytes": 6772,
+    "sha256": "f1dd3b46b705f51d1ed9f93907d0115d15e3c6f1f00cb450839287737121ee60"
   },
   {
     "path": "SECURITY.md",
@@ -1868,6 +1868,16 @@
     "path": "docs/images/cod-reconciliation.jpg",
     "bytes": 65999,
     "sha256": "688fd18314cebeb219c9f1ecb270797dc9ceb5b88b4111b011f84c1d2f5ceb90"
+  },
+  {
+    "path": "docs/publication.ar.md",
+    "bytes": 707,
+    "sha256": "27d81206df87d8e90956e9f3126494239b1ed5e3e2ebc120ecf0e604fd46b775"
+  },
+  {
+    "path": "docs/publication.md",
+    "bytes": 627,
+    "sha256": "98b6379affd38a017bd0ce552ceb75dfe8f5c8f4c340347727478c348b3fd403"
   },
   {
     "path": "docs/setup.ar.md",
