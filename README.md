@@ -103,7 +103,7 @@ Captured from the local application with synthetic records. This does not establ
 
 ## Verification and deeper reading
 
-API and admin production builds passed. Fresh PostgreSQL initialization applied all 16 Prisma migrations. The synthetic acceptance script passed customer/merchant/driver/admin authentication, rejected admin self-registration and foreign-order access, verified a 10% discount, completed delivery, checked one driver earning and merchant entry, repeated delivery without additional entries, rejected terminal-state regression, and confirmed a remittance once.
+API and admin production builds passed. Fresh PostgreSQL initialization applied all 16 Prisma migrations. The synthetic acceptance script passed customer/merchant/driver/admin authentication, rejected admin self-registration and foreign-order access, verified a 10% discount, completed delivery, checked one driver earning and merchant entry, repeated delivery without additional entries, rejected terminal-state regression, and confirmed a remittance once. Fresh-database acceptance also verified discounted COD remittance: a 3,140 DZD customer total minus 1,000 DZD delivery equals 2,140 DZD remitted to administration. Repeating confirmation was rejected. The previous gross-subtotal formula incorrectly charged the driver for the customer discount and was corrected.
 
 Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent financial updates and multi-device notification delivery remain unverified. Repeated sequential updates passed; this is not proof of every concurrency scenario. Stop the API before Prisma generation/reset on Windows to avoid a locked query-engine DLL.
 

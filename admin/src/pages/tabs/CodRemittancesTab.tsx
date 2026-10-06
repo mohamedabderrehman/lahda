@@ -177,6 +177,8 @@ export default function CodRemittancesTab() {
                       <div className="text-xs text-gray-500">
                         منتجات: {remittance.subtotalSum.toLocaleString()} | 
                         رسوم: {remittance.appFeeSum.toLocaleString()}
+                        {Number(remittance.subtotalSum) + Number(remittance.appFeeSum) > Number(remittance.amountDueToAdmin) &&
+                          <> | تعديل تحصيل: {(Number(remittance.subtotalSum) + Number(remittance.appFeeSum) - Number(remittance.amountDueToAdmin)).toLocaleString()}</>}
                       </div>
                     </td>
                     <td className="px-6 py-4">

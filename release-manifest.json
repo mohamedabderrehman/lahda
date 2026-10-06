@@ -21,13 +21,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 7146,
-    "sha256": "37080b465193b7eef1060a477744529315b88c99c3cddb4a0e55bee3e4d6d268"
+    "bytes": 7531,
+    "sha256": "89df09fbd76d19394b2d7cb71620c8d41386bff12fb297147e3945509ae1f041"
   },
   {
     "path": "README.md",
-    "bytes": 6391,
-    "sha256": "1b568f424e77f396660591e375338194d3eb6c29c2d2b013df7231c1e33e630b"
+    "bytes": 6704,
+    "sha256": "9514f748a4b19a5bda6e09a140122989b1302b828345824e1761e0b152c49836"
   },
   {
     "path": "SECURITY.md",
@@ -116,8 +116,8 @@
   },
   {
     "path": "admin/src/pages/Dashboard.tsx",
-    "bytes": 15242,
-    "sha256": "22090f2a5d5a603edffeb1d7731f54af54438f78fed58636235054940c8128ae"
+    "bytes": 15239,
+    "sha256": "9dc7eca5d5400b6a3703e2d55691fd4fab8ae60c51336691c607ea2d3501569f"
   },
   {
     "path": "admin/src/pages/Drivers.tsx",
@@ -211,8 +211,8 @@
   },
   {
     "path": "admin/src/pages/tabs/CodRemittancesTab.tsx",
-    "bytes": 18058,
-    "sha256": "ff4cb32a07a8ec4c88894f584b7f69b8848a033bc2af5ed42a63bf3c32b83bbf"
+    "bytes": 18367,
+    "sha256": "bd3402db0a0a46c660faa032a08a1b7c2a6e4eda9540526ecbef105b6ddd55c7"
   },
   {
     "path": "admin/src/pages/tabs/CustomersTab.tsx",
@@ -691,8 +691,8 @@
   },
   {
     "path": "api/src/orders/cod-remittance.service.ts",
-    "bytes": 11407,
-    "sha256": "ef96a4975f7854ad4b516504807c99bd1d391e1c844c6f94cceaba96e8aea9d3"
+    "bytes": 11587,
+    "sha256": "fdd446e69b60f3afebf1162c822e078161d69e44de2c7b2178a9f8602c4c6c01"
   },
   {
     "path": "api/src/orders/delivery-offer.service.ts",
@@ -836,8 +836,8 @@
   },
   {
     "path": "api/tools/check-demo.js",
-    "bytes": 4455,
-    "sha256": "560fd2d4489a2b47f2433717a5ed4cd086edfaa5c038f06da04f2f8c4f6b5bbd"
+    "bytes": 5680,
+    "sha256": "5a99e2f6eac31cffc7d665b4f17b29b19076b9a1e12155a7dc28acebbe178c91"
   },
   {
     "path": "api/tsconfig.json",
@@ -1821,23 +1821,23 @@
   },
   {
     "path": "docs/asset-manifest.json",
-    "bytes": 29005,
-    "sha256": "81884f1e17ac421f172ad2d54054c1fc16bc31f09a497e3c5be7106a210bca6b"
+    "bytes": 29586,
+    "sha256": "9d6d157e44a0ee55c9fec3db9c171c14a7967a61c72b6ed925a3232e649d1eeb"
   },
   {
     "path": "docs/case-study.ar.md",
-    "bytes": 2976,
-    "sha256": "612923205ff9d86c15aa9c03d4cd34664d5ed4cbce42893fb9eb86388c9709ee"
+    "bytes": 3361,
+    "sha256": "780478bfb935c5c0804ecc9f1d51b4d0eddd4357773a2e2e753a0b093b82ff37"
   },
   {
     "path": "docs/case-study.md",
-    "bytes": 2445,
-    "sha256": "3be172e3397ae57b473918e5ad3853e8d7df0d252d964c6fc1f5dd73cb6e35ab"
+    "bytes": 2758,
+    "sha256": "08a04fcf0c35eae64a6ea10d03d38d49ce0b8000f4274ff3f9f1493866ddaf82"
   },
   {
     "path": "docs/demo.ar.md",
-    "bytes": 2621,
-    "sha256": "a87d7064cadc6db855a6c5d2ba8ce35796177ba5a53f635ce591c9d6a275c911"
+    "bytes": 3006,
+    "sha256": "227e151a84c5ffde8717d8b571967e1fe3550156e85dad5677295bee67daf749"
   },
   {
     "path": "docs/demo.md",
@@ -1856,8 +1856,18 @@
   },
   {
     "path": "docs/images/admin-dashboard.jpg",
-    "bytes": 75020,
-    "sha256": "f5f9dc3150f00ddcf9491d2c82046f9caa4755e4424d7421f4f3530f819a38d6"
+    "bytes": 75149,
+    "sha256": "6879bdba4c9ad3900dbc26e772c2848c353270d6039cb5ff1ea6b994dcb96e0e"
+  },
+  {
+    "path": "docs/images/admin-orders.jpg",
+    "bytes": 72291,
+    "sha256": "179c2ac0f28171b21c6973f3d41834e2fbc0bac699109050cd724c7c801180c6"
+  },
+  {
+    "path": "docs/images/cod-reconciliation.jpg",
+    "bytes": 65999,
+    "sha256": "688fd18314cebeb219c9f1ecb270797dc9ceb5b88b4111b011f84c1d2f5ceb90"
   },
   {
     "path": "docs/setup.ar.md",
@@ -1871,33 +1881,38 @@
   },
   {
     "path": "docs/verification.ar.md",
-    "bytes": 2050,
-    "sha256": "79f82cdc7686921cb7f5a11595fa2c85a55752b434307220d4f5060d71d2ff17"
+    "bytes": 2435,
+    "sha256": "808c43db2bdd6b50a6e2d07d17f09f36af90affad7c6388beff224fe1b5439fc"
   },
   {
     "path": "docs/verification.md",
-    "bytes": 1928,
-    "sha256": "c926ba9b276b087a5213ae5fe3f08c6475b7c86a3816794d6060e5ba074e196e"
+    "bytes": 2241,
+    "sha256": "8baf529c88f0d428d1f32d4a3e2da511e9581cfb1497b756f2dfaf0c1ad42f5b"
+  },
+  {
+    "path": "docs/videos/walkthrough.mp4",
+    "bytes": 152419,
+    "sha256": "d15ca1c6e104ce1197878a768ce26fec27e81bbfcd221497b232b1457245189d"
   },
   {
     "path": "docs/walkthrough.ar.md",
-    "bytes": 599,
-    "sha256": "c970a8ea345ef4f683994a28b4439f92212dd8c3a13d1a2d9ac5b989cea82230"
+    "bytes": 958,
+    "sha256": "b8b9f456077a39270c51c8cd0ab7ae8825df03ed6e38260e9f78701ff1cc77d4"
   },
   {
     "path": "docs/walkthrough.md",
-    "bytes": 525,
-    "sha256": "e53ba949f4e7766d570dea9e6da244f31571ded1c57a5ac2053b1ac4410cc76b"
+    "bytes": 855,
+    "sha256": "f737d8231d4e865e546afc8d59bfe2826c5dbc0a496cdbf086812e5c7c1787c0"
   },
   {
     "path": "docs/workflow-diagrams.ar.md",
-    "bytes": 1796,
-    "sha256": "d9b7500457b3c0324648eeb4cc69c0c5e8e41f99f11ef38baed210fbc3550b38"
+    "bytes": 2001,
+    "sha256": "67b10a8b84565e702ce3b0b430514db933905cc4797fb9d3958560f291d705ca"
   },
   {
     "path": "docs/workflow-diagrams.md",
-    "bytes": 1635,
-    "sha256": "03ae108394d2e1d23a9beb11d6d2f53f89576a595168e121e741fc869140489a"
+    "bytes": 1823,
+    "sha256": "f09a840b3d1818b0787121a2d443e66e11979340d12f3db723bb228410662c27"
   },
   {
     "path": "driver/.easignore",

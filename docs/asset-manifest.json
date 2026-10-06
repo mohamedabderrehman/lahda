@@ -271,7 +271,22 @@
   },
   {
     "path": "docs/images/admin-dashboard.jpg",
-    "sha256": "f5f9dc3150f00ddcf9491d2c82046f9caa4755e4424d7421f4f3530f819a38d6",
+    "sha256": "6879bdba4c9ad3900dbc26e772c2848c353270d6039cb5ff1ea6b994dcb96e0e",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/images/admin-orders.jpg",
+    "sha256": "179c2ac0f28171b21c6973f3d41834e2fbc0bac699109050cd724c7c801180c6",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/images/cod-reconciliation.jpg",
+    "sha256": "688fd18314cebeb219c9f1ecb270797dc9ceb5b88b4111b011f84c1d2f5ceb90",
+    "scope": "Actual synthetic application capture"
+  },
+  {
+    "path": "docs/videos/walkthrough.mp4",
+    "sha256": "d15ca1c6e104ce1197878a768ce26fec27e81bbfcd221497b232b1457245189d",
     "scope": "Actual synthetic application capture"
   },
   {

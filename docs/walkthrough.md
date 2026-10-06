@@ -8,3 +8,17 @@ Customer chooses an address and products → API calculates the order → mercha
 
 ![Lahda](images/admin-dashboard.jpg)
 
+## admin orders
+
+![Lahda](images/admin-orders.jpg)
+
+## cod reconciliation
+
+![Lahda](images/cod-reconciliation.jpg)
+
+
+## Video
+
+[MP4 walkthrough](videos/walkthrough.mp4)
+
+An edited sequence of actual interface captures with synthetic data. It is not a continuous device recording or evidence of Android verification.

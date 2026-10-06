@@ -70,7 +70,9 @@ export class CodRemittanceService {
       subtotalSum: orders.reduce((sum, o) => sum + Number(o.subtotal), 0),
       appFeeSum: orders.reduce((sum, o) => sum + Number(o.appFee), 0),
       deliveryFeeSum: orders.reduce((sum, o) => sum + Number(o.deliveryFee), 0),
-      amountDueToAdmin: orders.reduce((sum, o) => sum + Number(o.subtotal) + Number(o.appFee), 0),
+      // Remit collected cash after the delivery amount retained by the driver.
+      // Gross subtotal + appFee would charge the driver for a customer promotion.
+      amountDueToAdmin: orders.reduce((sum, o) => sum + Math.max(0, Number(o.total) - Number(o.deliveryFee)), 0),
     };
 
     return {

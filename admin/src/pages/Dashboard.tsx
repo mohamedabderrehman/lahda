@@ -104,21 +104,21 @@ export default function Dashboard() {
         <div className="bg-emerald-50 border border-emerald-200 rounded-xl p-4">
           <h3 className="font-semibold text-emerald-900 mb-1">🏪 المتاجر</h3>
           <p className="text-sm text-emerald-700 mb-3">إدارة المتاجر والموافقة على الجديد</p>
-          <a href="#/users/merchants" className="text-sm text-emerald-600 hover:text-emerald-800 font-medium">
+          <a href="/users/merchants" className="text-sm text-emerald-600 hover:text-emerald-800 font-medium">
             الذهاب إلى المتاجر →
           </a>
         </div>
         <div className="bg-amber-50 border border-amber-200 rounded-xl p-4">
           <h3 className="font-semibold text-amber-900 mb-1">💵 التحصيل النقدي</h3>
           <p className="text-sm text-amber-700 mb-3">متابعة مبالغ السائقين بانتظار التأكيد</p>
-          <a href="#/finance/driver-cod" className="text-sm text-amber-600 hover:text-amber-800 font-medium">
+          <a href="/finance/driver-cod" className="text-sm text-amber-600 hover:text-amber-800 font-medium">
             الذهاب إلى التحصيل →
           </a>
         </div>
         <div className="bg-blue-50 border border-blue-200 rounded-xl p-4">
           <h3 className="font-semibold text-blue-900 mb-1">⚙️ إعدادات التسعير</h3>
           <p className="text-sm text-blue-700 mb-3">ضبط رسوم التوصيل والتطبيق</p>
-          <a href="#/finance/pricing" className="text-sm text-blue-600 hover:text-blue-800 font-medium">
+          <a href="/finance/pricing" className="text-sm text-blue-600 hover:text-blue-800 font-medium">
             الذهاب إلى التسعير →
           </a>
         </div>
