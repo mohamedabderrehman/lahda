@@ -3,12 +3,11 @@
 # --- AAB output path (once built) ---
 #   Local Gradle/Android Studio:
 #     customer\android\app\build\outputs\bundle\release\app-release.aab
-#   Full path: c:\Users\user\Documents\everything\lahda\customer\android\app\build\outputs\bundle\release\app-release.aab
 #
 # --- Option 1: Android Studio (recommended if local build was failing) ---
 #   1. Open Android Studio -> Open -> customer\android
 #   2. Build -> Generate Signed Bundle / APK -> Android App Bundle
-#   3. Use existing keystore: android\app\customer-release.keystore (see android\keystore.properties)
+#   3. Create fresh demonstration signing material outside Git; configure it privately.
 #   4. Build release; the .aab is written to the path above.
 #
 # --- Option 2: EAS Build (cloud) ---

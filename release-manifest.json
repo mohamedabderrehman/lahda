@@ -1,0 +1,2592 @@
+[
+  {
+    "path": ".github/workflows/release.yml",
+    "bytes": 1396,
+    "sha256": "13fa597133a87a8845b60beb075a36840ff3795e95b3ea0e36dbd912c830cc3b"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 643,
+    "sha256": "fce9b87b29654ad57d951465929cd84564afedf9f31702b0122a0caa1321e37d"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 324,
+    "sha256": "11f44e1400db68dc2eb2604192b39bb672a5f6b4b543ce9ebe4bcfda1282668a"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1098,
+    "sha256": "2f0710fed6c9393bb1e564c55d00df43608b35631d84cc245d414a6e001368d5"
+  },
+  {
+    "path": "README.ar.md",
+    "bytes": 7146,
+    "sha256": "37080b465193b7eef1060a477744529315b88c99c3cddb4a0e55bee3e4d6d268"
+  },
+  {
+    "path": "README.md",
+    "bytes": 6391,
+    "sha256": "1b568f424e77f396660591e375338194d3eb6c29c2d2b013df7231c1e33e630b"
+  },
+  {
+    "path": "SECURITY.md",
+    "bytes": 2259,
+    "sha256": "647f8af294afb3272e24ebc9bd98e94dc96196ca5d1038014251333451c35cbc"
+  },
+  {
+    "path": "THIRD_PARTY_NOTICES.md",
+    "bytes": 2334,
+    "sha256": "e564e47d6802d9b741bcf96cc31e719417234c2cde744d687b5ca290261391a6"
+  },
+  {
+    "path": "admin/.env.example",
+    "bytes": 36,
+    "sha256": "6bd9967edac2bd9953f9b13f1ac566be8ea2f92dbd7e4e021a653f4a5b22178b"
+  },
+  {
+    "path": "admin/.gitignore",
+    "bytes": 56,
+    "sha256": "ad938a201cd1f4b5249b98fb11bc1c7d75ad2b4dd97850d9052d418a225473a3"
+  },
+  {
+    "path": "admin/index.html",
+    "bytes": 679,
+    "sha256": "ed0e1741316743bbb61c7f3c49bf94a63d6e820fc5732a10474f29dcd415d688"
+  },
+  {
+    "path": "admin/package-lock.json",
+    "bytes": 110224,
+    "sha256": "4d4de0a671036a005aede1e96f529c7f426e0711633958ebf17eac835037076e"
+  },
+  {
+    "path": "admin/package.json",
+    "bytes": 730,
+    "sha256": "5982b0ae569913843daec27d28aaf7a26683393eb829993f8a3af91167edcb9b"
+  },
+  {
+    "path": "admin/postcss.config.js",
+    "bytes": 87,
+    "sha256": "98e8d8a143f16216f4b50a2520024f6254987049b2e199026742a96e16ba411e"
+  },
+  {
+    "path": "admin/src/App.tsx",
+    "bytes": 4622,
+    "sha256": "3f01aa6116a55b5563ce2667ea751fdd6eaeb9bbd9c891432401a959eed13af6"
+  },
+  {
+    "path": "admin/src/api/client.ts",
+    "bytes": 21961,
+    "sha256": "0a4caf58c0f0be2774ea7f8e699d267b96595959f670bca61b3f64a7691dff2e"
+  },
+  {
+    "path": "admin/src/auth/AuthContext.tsx",
+    "bytes": 1938,
+    "sha256": "a487f64fe883214640acc5d8dfcaf4d6654a6bd059f38ae4ca721c5eb250d52c"
+  },
+  {
+    "path": "admin/src/components/Layout.tsx",
+    "bytes": 5482,
+    "sha256": "74b969f236ea0519659e5d712eb60fa03b0b579ecd67d8ccad0436e1880aacdf"
+  },
+  {
+    "path": "admin/src/components/ReceiptModal.tsx",
+    "bytes": 10801,
+    "sha256": "f278458479b950b60177aabbb06e62f7d5bd7d5c8320495808419546fc81ad59"
+  },
+  {
+    "path": "admin/src/index.css",
+    "bytes": 1347,
+    "sha256": "8a8c4ae48af68bf047ea6bc101255ecb4a74fae7de34ccaf6670f6fd46295cb4"
+  },
+  {
+    "path": "admin/src/main.tsx",
+    "bytes": 732,
+    "sha256": "2aa242f581634db5bfd6b0ae6952dbbc490b72454a38b0a9e2aafac2f11e85c5"
+  },
+  {
+    "path": "admin/src/pages/Categories.tsx",
+    "bytes": 10308,
+    "sha256": "f43a720dd38c23788fe9faff7ef77f5763d81e15275c7668626ea7fdda85e351"
+  },
+  {
+    "path": "admin/src/pages/Content.tsx",
+    "bytes": 2789,
+    "sha256": "7a0650ea151aa5f521067a5616d11297ddd292aa89658105d6ac80d03534cd2c"
+  },
+  {
+    "path": "admin/src/pages/Dashboard.tsx",
+    "bytes": 15242,
+    "sha256": "22090f2a5d5a603edffeb1d7731f54af54438f78fed58636235054940c8128ae"
+  },
+  {
+    "path": "admin/src/pages/Drivers.tsx",
+    "bytes": 16580,
+    "sha256": "a317009fb60b2e6a8f10176903a69ebd4e30e64a71f6832504124841dee07700"
+  },
+  {
+    "path": "admin/src/pages/Faq.tsx",
+    "bytes": 3116,
+    "sha256": "3c91c3de21d54f432a961898d1b07010ff138982d7b21901b543526c0371b5e0"
+  },
+  {
+    "path": "admin/src/pages/Finance.tsx",
+    "bytes": 4567,
+    "sha256": "b24655c93a963f317ad351bc59ad09feb129ebb79a89e42729c06d21970a122d"
+  },
+  {
+    "path": "admin/src/pages/HomeSections.tsx",
+    "bytes": 8287,
+    "sha256": "41631f19132da54da83baf552a1a0a6a8dd6dae1dc0f9b55421bcd37bb69f665"
+  },
+  {
+    "path": "admin/src/pages/Login.tsx",
+    "bytes": 2653,
+    "sha256": "0e02c8c36158d28242adec0dcd6d0b0486a70cdef07cd161543b9185e0f27936"
+  },
+  {
+    "path": "admin/src/pages/MerchantBalances.tsx",
+    "bytes": 17185,
+    "sha256": "b5396a5c6fed8d86c7887fef42a2ceaec28ca1fae0a62094082215839436a864"
+  },
+  {
+    "path": "admin/src/pages/Merchants.tsx",
+    "bytes": 25994,
+    "sha256": "91d04f74f1a5cefbc65fee6da8fdc70a841ef58f4a8cdbe86bb402ba18b2a797"
+  },
+  {
+    "path": "admin/src/pages/Orders.tsx",
+    "bytes": 3549,
+    "sha256": "33a97ff3d9e4c4e2b07eca325e213748e4e31c9d9ff891b19d14619217af539b"
+  },
+  {
+    "path": "admin/src/pages/Pricing.tsx",
+    "bytes": 11615,
+    "sha256": "142f0fa605b23fb43016e0575034d89d1863c21f22dcc4392eda7e391b7e5c9b"
+  },
+  {
+    "path": "admin/src/pages/PromoBanners.tsx",
+    "bytes": 10789,
+    "sha256": "c71e6aea458745f658e72242e0e6213f8bc9623765f5a3834aeb6d24af93bc0b"
+  },
+  {
+    "path": "admin/src/pages/Ratings.tsx",
+    "bytes": 5114,
+    "sha256": "bca6b64231c23c5bb590d71de80fd0886db5b5fbf12bc3d0dd0fb19b79327d2f"
+  },
+  {
+    "path": "admin/src/pages/Remittances.tsx",
+    "bytes": 15152,
+    "sha256": "7676a276bdf3bd3989fb6c2ca201ef53a81b8783cd58196e560008da756c925b"
+  },
+  {
+    "path": "admin/src/pages/Reports.tsx",
+    "bytes": 3194,
+    "sha256": "aa2f686aee7d0739e03f23b9e03f54b930a98eee0ca604d7dfc6d476915b13aa"
+  },
+  {
+    "path": "admin/src/pages/Settings.tsx",
+    "bytes": 2446,
+    "sha256": "02e05a0035ff8dfc40596406c4bf3be26d0633585ea5a0764acd959ff57235ee"
+  },
+  {
+    "path": "admin/src/pages/SupportChannels.tsx",
+    "bytes": 7435,
+    "sha256": "3b6e45f8cacc60ed68db3ad984c36c647b522fbb89aabd6f9dbd06ee004769f2"
+  },
+  {
+    "path": "admin/src/pages/Users.tsx",
+    "bytes": 3423,
+    "sha256": "74512250638ad6a4a0d20b1f2da6031753def952e30fe8d09bc26a7d00d9c2e6"
+  },
+  {
+    "path": "admin/src/pages/tabs/AppearanceTab.tsx",
+    "bytes": 4095,
+    "sha256": "c8b6848bd435401682d74210e405b4b6a01d2c62e8913812b5ab7593d1fa1139"
+  },
+  {
+    "path": "admin/src/pages/tabs/CategoriesTab.tsx",
+    "bytes": 14975,
+    "sha256": "0f155f424275866d3cd55fdb443b559da7b06a0a9eb45c14be7ec08a9b929391"
+  },
+  {
+    "path": "admin/src/pages/tabs/CodRemittancesTab.tsx",
+    "bytes": 18058,
+    "sha256": "ff4cb32a07a8ec4c88894f584b7f69b8848a033bc2af5ed42a63bf3c32b83bbf"
+  },
+  {
+    "path": "admin/src/pages/tabs/CustomersTab.tsx",
+    "bytes": 15344,
+    "sha256": "2325790e8ed446eaab12f946c6cf73d0426cae66447515e357bca4bf53a4d74b"
+  },
+  {
+    "path": "admin/src/pages/tabs/DriverCodTab.tsx",
+    "bytes": 16517,
+    "sha256": "aa744b3c003861296845500b74d99c1d862380b9dde1df17b356cc266d095ba2"
+  },
+  {
+    "path": "admin/src/pages/tabs/DriversTab.tsx",
+    "bytes": 22474,
+    "sha256": "f8beebd08d3a5cfcbcecaa8282e1bdf287ffeaa97362bd48b5582b19b8b936a7"
+  },
+  {
+    "path": "admin/src/pages/tabs/FaqTab.tsx",
+    "bytes": 10097,
+    "sha256": "f28c4eecd40a27fdf07393237a1c810bfab5a1583bd64eeac9158e2bc7938ce7"
+  },
+  {
+    "path": "admin/src/pages/tabs/HomeSectionsTab.tsx",
+    "bytes": 12367,
+    "sha256": "9c6a33b0055214a84b8b3400ca7df3e741c9473316e92a02203e982e962c5bd7"
+  },
+  {
+    "path": "admin/src/pages/tabs/MerchantAccountsTab.tsx",
+    "bytes": 23205,
+    "sha256": "0c8abd006af80b6b2d6c2fd7542bd32c6d748682e66b1cc224d8616f6360934d"
+  },
+  {
+    "path": "admin/src/pages/tabs/MerchantsTab.tsx",
+    "bytes": 22402,
+    "sha256": "034e3712a3b17f587aec4876a9d84a9620bc130e47a981edc0ad232ccf42f41e"
+  },
+  {
+    "path": "admin/src/pages/tabs/OrdersListTab.tsx",
+    "bytes": 10127,
+    "sha256": "9a8e304a6990fec7f7d272ab77aef33674afe6399ff9efd62d07634395b9afb5"
+  },
+  {
+    "path": "admin/src/pages/tabs/PricingSettingsTab.tsx",
+    "bytes": 146,
+    "sha256": "f95cb226d8eafba2c2de4043dfdf639d440b586272abded7056aacef2b90d654"
+  },
+  {
+    "path": "admin/src/pages/tabs/PricingTab.tsx",
+    "bytes": 13895,
+    "sha256": "3b9a8a8ad450e6380e1c144c689b41bb41c4fe74de6d89358c24445cd9b5e2cb"
+  },
+  {
+    "path": "admin/src/pages/tabs/PromoBannersTab.tsx",
+    "bytes": 10852,
+    "sha256": "f69fb8ffa4e10412bc933b1cd1e9d7b054a4dfb961730fa1fa7c6bb50eb5e9eb"
+  },
+  {
+    "path": "admin/src/pages/tabs/PromoCodesTab.tsx",
+    "bytes": 10124,
+    "sha256": "23b507e253c4db0cde23aca7c7de19aecbb90b62074c7e35d6b52f2d6cea7741"
+  },
+  {
+    "path": "admin/src/pages/tabs/RewardChallengeTab.tsx",
+    "bytes": 7304,
+    "sha256": "2aba483d7d7a61315efd987db8ffae7007c54ba966dfed33c69275573dc7cd69"
+  },
+  {
+    "path": "admin/src/pages/tabs/SupportChannelsTab.tsx",
+    "bytes": 11063,
+    "sha256": "e3f49d5380fedef87caffb1a5d379bc065b511f2f0b921c6c5c8e91c799865c8"
+  },
+  {
+    "path": "admin/src/vite-env.d.ts",
+    "bytes": 39,
+    "sha256": "424faf9241dd699dda995b367ed36665732da1e6ec1f33b2fd40394488ecac92"
+  },
+  {
+    "path": "admin/tailwind.config.js",
+    "bytes": 764,
+    "sha256": "95f59a72bb718e7729c3155b5b270186f29286455356676ff290379e75a08f55"
+  },
+  {
+    "path": "admin/tsconfig.json",
+    "bytes": 583,
+    "sha256": "5b64ad9aaceb81fd619fa40d2a16cebde7c167425e22744f59687a438c1e34a8"
+  },
+  {
+    "path": "admin/tsconfig.node.json",
+    "bytes": 223,
+    "sha256": "6ec602b8aa146888c76f0b41ca3515f91f95919f6e6417a4670decaba8fcb982"
+  },
+  {
+    "path": "admin/vite.config.d.ts",
+    "bytes": 76,
+    "sha256": "4b96dd19fd2949d28ce80e913412b0026dc421e5bf6c31d87c7b5eb11b5753b4"
+  },
+  {
+    "path": "admin/vite.config.js",
+    "bytes": 152,
+    "sha256": "e92e3dd7c80ed7d73e0de0ea753a8af6d32055f5f7ed9862e523dbaa3ad3399f"
+  },
+  {
+    "path": "admin/vite.config.ts",
+    "bytes": 156,
+    "sha256": "84f6869fa19269e3bd9d3c25c7e9cfe27f41a42e415e3a42d108725f1ad001d7"
+  },
+  {
+    "path": "api/.env.example",
+    "bytes": 275,
+    "sha256": "9574c7673101e55ae1a7711ba7042a3ec9df269eaf92a6ebd685c2ec3b8a0e82"
+  },
+  {
+    "path": "api/.gitignore",
+    "bytes": 58,
+    "sha256": "af0feb8e54e8c299352d31e2ab0e71e02594a9669ba1aa554b31bfd45f87c2d3"
+  },
+  {
+    "path": "api/nest-cli.json",
+    "bytes": 179,
+    "sha256": "84dc81177a0db2270bd71242b910f07982c56eec68285694c9cbffc3911912ba"
+  },
+  {
+    "path": "api/package-lock.json",
+    "bytes": 251162,
+    "sha256": "b3438118b078f92ca5283a403ce2defce62f2b8d2fd052cd30d2e085b5aeff07"
+  },
+  {
+    "path": "api/package.json",
+    "bytes": 1353,
+    "sha256": "7a002f3c4bc56d3f9f54d98b04f34f68d8ca493c37444da2b2be70d727c8dd2c"
+  },
+  {
+    "path": "api/prisma/migrations/20240220000000_init/migration.sql",
+    "bytes": 12643,
+    "sha256": "ed9472d44b52f5237e34437aac91564a6a14345f13d262f28a646e0c33579d50"
+  },
+  {
+    "path": "api/prisma/migrations/20260221000000_add_settings_and_promo/migration.sql",
+    "bytes": 687,
+    "sha256": "2797ce63580f5890fdd7e00a55759489114e08e093a6cc141c15c63b871a0401"
+  },
+  {
+    "path": "api/prisma/migrations/20260222140000_add_merchant_filters_fields/migration.sql",
+    "bytes": 222,
+    "sha256": "45623f29caaa776c54a4f135b1bc1f3d08843ec85c7bc8f79fc401c45e18ecd3"
+  },
+  {
+    "path": "api/prisma/migrations/20260222152000_add_store_info_fields/migration.sql",
+    "bytes": 175,
+    "sha256": "25e02ea4857cb59217e41d0bdf0eee5a5bf45ae1d150a54ab198bcb7bbfa1ad5"
+  },
+  {
+    "path": "api/prisma/migrations/20260222165000_add_home_sections/migration.sql",
+    "bytes": 1391,
+    "sha256": "ff1147ff8f33360b2257bdb615054aebfc770236f25a5f34f7dc08241a886111"
+  },
+  {
+    "path": "api/prisma/migrations/20260222171000_add_product_categories/migration.sql",
+    "bytes": 1009,
+    "sha256": "4ff2c3aa90725c474bf89408c8082e88efb8db6587f4075c7704a2103aef72f1"
+  },
+  {
+    "path": "api/prisma/migrations/20260223150000_add_support_channels/migration.sql",
+    "bytes": 449,
+    "sha256": "aa643c756a751413b4a3686c83ff5a2dfa3acd06f14d27a37a01c5a412445e8c"
+  },
+  {
+    "path": "api/prisma/migrations/20260225000000_add_notifications/migration.sql",
+    "bytes": 698,
+    "sha256": "8470e2aced8b79a3d3ae554964ad37ca15dc06ddc81b7ec92c4f27bdf2ed1b30"
+  },
+  {
+    "path": "api/prisma/migrations/20260226000000_ratings_favorites_preptime/migration.sql",
+    "bytes": 1776,
+    "sha256": "261068b297477cc4f368c9612164043e14e044e2a321f78cb70da80bfd56ae6d"
+  },
+  {
+    "path": "api/prisma/migrations/20260227000000_add_fees_pricing_ledger_cod/migration.sql",
+    "bytes": 3795,
+    "sha256": "7362c3e38b48213b6133a0701fd9be92bc9c580488e136a3b4e847d96411c975"
+  },
+  {
+    "path": "api/prisma/migrations/20260227000001_driver_remittance_unique/migration.sql",
+    "bytes": 250,
+    "sha256": "c9c424bc5916b39d881a71b72a2737618f062d9a1710e1851f964332065ce017"
+  },
+  {
+    "path": "api/prisma/migrations/20260303000000_merchant_tax_percent/migration.sql",
+    "bytes": 101,
+    "sha256": "9a64ec4db183cae334be28e0872983633e57b41a230ae530b8bbc75ab788ab6f"
+  },
+  {
+    "path": "api/prisma/migrations/20260303120000_add_delivery_offer_and_driver_ledger/migration.sql",
+    "bytes": 1911,
+    "sha256": "565a4d11871ca3807f3b27028ac64ee4df8341bcede4e82f512c69be08fa7ed8"
+  },
+  {
+    "path": "api/prisma/migrations/20260304000000_add_reward_challenge/migration.sql",
+    "bytes": 766,
+    "sha256": "03c683d29e2eae2cad082ad377ca48f225580f03e3e258803a80569bc45c6abe"
+  },
+  {
+    "path": "api/prisma/migrations/20260323000000_add_settlement_receipts/migration.sql",
+    "bytes": 1196,
+    "sha256": "5c3915371d5a3ae4b1905bd979ae72ead45221aeb558b7243504c2b3cdf304ec"
+  },
+  {
+    "path": "api/prisma/migrations/20261006000000_release_schema_alignment/migration.sql",
+    "bytes": 2038,
+    "sha256": "356b0dc82802db5853520092d2f1e74753d8891a8e530ec2c3f92a6eae066457"
+  },
+  {
+    "path": "api/prisma/schema.prisma",
+    "bytes": 24576,
+    "sha256": "dd0b9d03f2d29eab7b17d332f36a6e9d36ce8ccdb5d92bc9d406f381b2b11d97"
+  },
+  {
+    "path": "api/prisma/seed.js",
+    "bytes": 9495,
+    "sha256": "8aae3e3bf473ccaaa9bd6d3b9833751a5ecf1a159e5292a1d7e7ca9e4c4822c1"
+  },
+  {
+    "path": "api/src/addresses/addresses.controller.ts",
+    "bytes": 1292,
+    "sha256": "d02ed32ee6b88bb7217e96ae1648b9ab0c79079b1a3e08434eee880ff81838ef"
+  },
+  {
+    "path": "api/src/addresses/addresses.module.ts",
+    "bytes": 285,
+    "sha256": "ff190ec891778c5b98d80ed8eea42822e39f4d629c739f1844fc54f5774d55bf"
+  },
+  {
+    "path": "api/src/addresses/addresses.service.ts",
+    "bytes": 2431,
+    "sha256": "143be47616cfca800fd5984d2bcc4779a5a652dea869c8108ccfffae0d9ee7fc"
+  },
+  {
+    "path": "api/src/admin/admin.controller.ts",
+    "bytes": 17446,
+    "sha256": "093c92462b7f9deaf259691f48e02bf70dab2d24c7044b41da1813c3facfd13b"
+  },
+  {
+    "path": "api/src/admin/admin.module.ts",
+    "bytes": 868,
+    "sha256": "2543eb8a02d4a7ccac40987c4de8e33dcacdb5afea1e046894b10cff56a1f854"
+  },
+  {
+    "path": "api/src/admin/admin.service.ts",
+    "bytes": 34239,
+    "sha256": "219fb971d2cd0ac68ca876f89f084e991e418da4e5f9606935bde6f9f608c5b0"
+  },
+  {
+    "path": "api/src/app.controller.ts",
+    "bytes": 864,
+    "sha256": "f309bcf196f1f4021ebe0f3fd7c9b674176683b9e026ff95f91833928f6f250b"
+  },
+  {
+    "path": "api/src/app.module.ts",
+    "bytes": 1996,
+    "sha256": "0279802d5126d06dd8fa81af0b109bd290fe58f3aaf53b18ef3b90d61109cf58"
+  },
+  {
+    "path": "api/src/app.service.ts",
+    "bytes": 150,
+    "sha256": "56e1e4ab58554dad328aecf82225710ba4453d1ca6b73790dcca975c8da08b3c"
+  },
+  {
+    "path": "api/src/auth/auth.controller.ts",
+    "bytes": 3756,
+    "sha256": "9f272765ac81380071ac9366732503b764d6e87a4bce0b844f5f35c7a113044d"
+  },
+  {
+    "path": "api/src/auth/auth.module.ts",
+    "bytes": 644,
+    "sha256": "7c5568642a27daea317c9bccdc9c6a9fecf4786fb4ef87a5b89144fb333844f9"
+  },
+  {
+    "path": "api/src/auth/auth.service.ts",
+    "bytes": 5897,
+    "sha256": "cf9c9b396bc4a589b50300adf76daaf119654b82bf752f3a669689ed6bb7eef8"
+  },
+  {
+    "path": "api/src/auth/dto/login.dto.ts",
+    "bytes": 182,
+    "sha256": "ea15cfd915fe3eb7cd930d6d986178b581fb9a0aed113ac51d30fad213addcf9"
+  },
+  {
+    "path": "api/src/auth/dto/register.dto.ts",
+    "bytes": 459,
+    "sha256": "9206129bef0737864d04adc1c739fe7616c11deff9cc8efdb8009eb3c94235d4"
+  },
+  {
+    "path": "api/src/auth/dto/update-profile.dto.ts",
+    "bytes": 345,
+    "sha256": "58db026f3cb554c9af013aa24347b679adf12d457f08cf82197b6497b9bf65fd"
+  },
+  {
+    "path": "api/src/auth/jwt-secret.ts",
+    "bytes": 202,
+    "sha256": "8d9be4c533f8e4e1d13a89c46b18703f9ad029fb21e523372b6fe680e74c354f"
+  },
+  {
+    "path": "api/src/auth/jwt.strategy.ts",
+    "bytes": 969,
+    "sha256": "7469129139f7a72ea38e8ee8819ce540bc16bb58bc092360e29597d284e7616e"
+  },
+  {
+    "path": "api/src/cart/cart.controller.ts",
+    "bytes": 1288,
+    "sha256": "49f5f609fa3946a1073fe18297a2bd44877bb4aaf6854260b386cd108eeb5296"
+  },
+  {
+    "path": "api/src/cart/cart.module.ts",
+    "bytes": 250,
+    "sha256": "0650cc0ae7e7f0079a08e9af2b0bc3f84cc1e76300a7cedf49a902ad68f90b75"
+  },
+  {
+    "path": "api/src/cart/cart.service.ts",
+    "bytes": 2862,
+    "sha256": "162b28eadae0170a9b3b11faa841d212f33182ec87644dab2156d7c01565ee9c"
+  },
+  {
+    "path": "api/src/categories/categories.controller.ts",
+    "bytes": 307,
+    "sha256": "e217c637a17d7c65f4846ad4ab7087b842fa4aca6c815fe6435e1a3394b51601"
+  },
+  {
+    "path": "api/src/categories/categories.module.ts",
+    "bytes": 410,
+    "sha256": "6e6ed56a68227c312f2741992a820bf448c86490592790d332c68a17e3c26d67"
+  },
+  {
+    "path": "api/src/categories/categories.service.ts",
+    "bytes": 998,
+    "sha256": "b42224e12529f994a8a709d8c05a1285a7cc371b766f057a0dabb5881416c4e2"
+  },
+  {
+    "path": "api/src/common/decorators/current-user.decorator.ts",
+    "bytes": 388,
+    "sha256": "2f00d9a7a73e3c300e1cc86d794f810d41044620b5264bd2e331da710c2b58ad"
+  },
+  {
+    "path": "api/src/common/decorators/roles.decorator.ts",
+    "bytes": 207,
+    "sha256": "5de83e556b0a6cf7b0f5f60af073d35d53258cf3f7c797b189d5ad5fe7ce9463"
+  },
+  {
+    "path": "api/src/common/geo/delivery-zone.ts",
+    "bytes": 1679,
+    "sha256": "e6861ebdd8a52ed5b83eb5749f68f59a1250864514e6f8aee621d76d947e726c"
+  },
+  {
+    "path": "api/src/common/guards/roles.guard.ts",
+    "bytes": 712,
+    "sha256": "8765cc1f4bee7992f8dcd645195fbe25ed8f091647933f42c633835d05ea7eea"
+  },
+  {
+    "path": "api/src/driver/driver.controller.ts",
+    "bytes": 1609,
+    "sha256": "1c901e19ac4ac501876cbd164fd258062d6da334440a07a464904f2de4a8ed81"
+  },
+  {
+    "path": "api/src/driver/driver.module.ts",
+    "bytes": 546,
+    "sha256": "3106ffe0949bab78e8b25784860a0e7f8a1621617c3a21b04ee9731985c7ee73"
+  },
+  {
+    "path": "api/src/driver/driver.service.ts",
+    "bytes": 3884,
+    "sha256": "80e0e66b892a41f51e139fd3905f5c5ee76ca8fd1cad882b6e008d763221b58f"
+  },
+  {
+    "path": "api/src/driver/reward-challenge.controller.ts",
+    "bytes": 973,
+    "sha256": "397ebb8a433cbbf1f28409dd55869c0c24976f03e07deb01f4c49c169aa3e1fb"
+  },
+  {
+    "path": "api/src/driver/reward-challenge.service.ts",
+    "bytes": 7723,
+    "sha256": "444cc52cbe77d6c4ba5402a34b6db02d0db3130ae742c01a6e5e1a25064e29af"
+  },
+  {
+    "path": "api/src/faq/faq.controller.ts",
+    "bytes": 258,
+    "sha256": "5183ab309b4dfb551bbc17aac5b5d6b30380b7960d7d693803be1d90bbd6f81e"
+  },
+  {
+    "path": "api/src/faq/faq.module.ts",
+    "bytes": 243,
+    "sha256": "6e09c29dc92009eac8d1c63a0683f77339ceebd3cda00fb38c4263fa9c48735b"
+  },
+  {
+    "path": "api/src/faq/faq.service.ts",
+    "bytes": 349,
+    "sha256": "4bd3838747ffea7ca371c4754731121d5df1e75b8ab1eb00ff0ad9be8c4f2254"
+  },
+  {
+    "path": "api/src/favorites/favorites.controller.ts",
+    "bytes": 874,
+    "sha256": "f78f2e9e784dee6a1c020070bd210036f46fc2a0f27772128ad396c6830582ba"
+  },
+  {
+    "path": "api/src/favorites/favorites.module.ts",
+    "bytes": 370,
+    "sha256": "75362f5e71dffa067743708e709b4b271444764fee0d5dba9e91794529ad366e"
+  },
+  {
+    "path": "api/src/favorites/favorites.service.ts",
+    "bytes": 2867,
+    "sha256": "37cb486165d00ae45c3c10ab01f03402fc4b862c9e41ecd8c1897137a5cd98ae"
+  },
+  {
+    "path": "api/src/home/home.controller.ts",
+    "bytes": 450,
+    "sha256": "f647543b4058a9f164a5d20bfe9c5382ba17acee598746d7513e927e7372a4c8"
+  },
+  {
+    "path": "api/src/home/home.module.ts",
+    "bytes": 335,
+    "sha256": "a76392d318ba4a61bde4317da4ee3420749cb682943bb88ced87a0e5dd8ff520"
+  },
+  {
+    "path": "api/src/home/home.service.ts",
+    "bytes": 4390,
+    "sha256": "8fccc39ff19d0fd9b8db3bc55df9be73395d177bc8d072458a39a5e0b71d6e2a"
+  },
+  {
+    "path": "api/src/main.ts",
+    "bytes": 967,
+    "sha256": "2eb4956e448804b1049b468e60a63c4da2afb6f548635b5f65043a3c7728c3f0"
+  },
+  {
+    "path": "api/src/merchants/merchant-ledger.controller.ts",
+    "bytes": 2265,
+    "sha256": "51f323c69616b851e7c730a9627691b257099959d44f2c5f0210e2a9ee34a250"
+  },
+  {
+    "path": "api/src/merchants/merchant-ledger.service.ts",
+    "bytes": 6868,
+    "sha256": "7eba22bb4317fa5c70032c34effb5e822c8ad61cf757e6d93504546382107e61"
+  },
+  {
+    "path": "api/src/merchants/merchants.controller.ts",
+    "bytes": 4700,
+    "sha256": "519ba919f7e422652baabd3a2a0d2fcceb60a6487bc7d9339a82a12846898179"
+  },
+  {
+    "path": "api/src/merchants/merchants.module.ts",
+    "bytes": 725,
+    "sha256": "720e8501dc88a36bde7822e4618428efc853b7d78214b89f0fae5717cfe1b156"
+  },
+  {
+    "path": "api/src/merchants/merchants.service.ts",
+    "bytes": 6993,
+    "sha256": "7f2c792f282a29a599b7f7cb52571bc1e05625541e0fde7410e7d6b03e051ca3"
+  },
+  {
+    "path": "api/src/notifications/notifications.controller.ts",
+    "bytes": 1023,
+    "sha256": "d51fa83eedab9d30dcf7a437ab4ced7511becd99815f9bbc00759f56a4828d19"
+  },
+  {
+    "path": "api/src/notifications/notifications.module.ts",
+    "bytes": 368,
+    "sha256": "cd7a3c0fac45f7886afd43e79380e9c7dec4be2fae65a5147e2a42d2a45ae494"
+  },
+  {
+    "path": "api/src/notifications/notifications.service.ts",
+    "bytes": 4697,
+    "sha256": "a24d7125d5d0c52963f265f70d06d59118b02eabbb3ddacd530497cd17eafe1f"
+  },
+  {
+    "path": "api/src/orders/cod-remittance.controller.ts",
+    "bytes": 3283,
+    "sha256": "7366c85e87ab0ef83168f9cb32ce07b27842293e9b0707807973eafec8b1f773"
+  },
+  {
+    "path": "api/src/orders/cod-remittance.service.ts",
+    "bytes": 11407,
+    "sha256": "ef96a4975f7854ad4b516504807c99bd1d391e1c844c6f94cceaba96e8aea9d3"
+  },
+  {
+    "path": "api/src/orders/delivery-offer.service.ts",
+    "bytes": 12839,
+    "sha256": "6c92b735bd74df938d09edd717d761e51f580021a7db73fdee6971271d3cb882"
+  },
+  {
+    "path": "api/src/orders/orders.controller.ts",
+    "bytes": 3379,
+    "sha256": "4d67db6a703103e7f34a0342328aa175536b3d33cf0fb5a3677c16bba3ebf0da"
+  },
+  {
+    "path": "api/src/orders/orders.module.ts",
+    "bytes": 886,
+    "sha256": "913bfcce40a53d39b1e901f4b24e50e63b8d555932eca39b1943621eac457df2"
+  },
+  {
+    "path": "api/src/orders/orders.service.ts",
+    "bytes": 21235,
+    "sha256": "92ae5aeb64e9b5c1c9ddeb7118c091ee2898518888262d1495ef5a077e48d022"
+  },
+  {
+    "path": "api/src/prisma/prisma.module.ts",
+    "bytes": 219,
+    "sha256": "14d19dcd7848e4d134cd9eaa205818d5e0302123a5fc5ea2440d358a39f2fd25"
+  },
+  {
+    "path": "api/src/prisma/prisma.service.ts",
+    "bytes": 363,
+    "sha256": "58334e95599a754096851809483901a14e85a9e4d190655f74be6171ce1388b7"
+  },
+  {
+    "path": "api/src/products/products.controller.ts",
+    "bytes": 4133,
+    "sha256": "59ef76548941c0142a21962537bc594d143c216ce02b827402f3b9bddd40d4ae"
+  },
+  {
+    "path": "api/src/products/products.module.ts",
+    "bytes": 278,
+    "sha256": "9d1a43f7380e4c3014551bbcf96ff23876284314fe129568988eabf8c6c3d7a5"
+  },
+  {
+    "path": "api/src/products/products.service.ts",
+    "bytes": 9881,
+    "sha256": "6098ecace05872c6c6f6fbb45a5386cb08370bcad93e0878281becfabf76ea08"
+  },
+  {
+    "path": "api/src/promo-banners/promo-banners.controller.ts",
+    "bytes": 315,
+    "sha256": "22edf1e511d6c093540ec2f53f0ca9445da67d92c9de6f99b328f795b1c7a81e"
+  },
+  {
+    "path": "api/src/promo-banners/promo-banners.module.ts",
+    "bytes": 428,
+    "sha256": "0722405d9ee37aaf0402cfecda9ecbffca0883ebd773d8b29d64b60489eb4464"
+  },
+  {
+    "path": "api/src/promo-banners/promo-banners.service.ts",
+    "bytes": 1029,
+    "sha256": "7963c580cf0af9c754f377f7095b3438980a540f3cb47ab866a2a9326a85e0a8"
+  },
+  {
+    "path": "api/src/promo-codes/promo-codes.controller.ts",
+    "bytes": 1356,
+    "sha256": "255c7f79c1a0dead60a0db6f5ee9a151073698f8786e0a308cf26d0d548da29d"
+  },
+  {
+    "path": "api/src/promo-codes/promo-codes.module.ts",
+    "bytes": 468,
+    "sha256": "4bfb714f4752c9701c702c79d3900dc9f77118c4216c2f3547096a78de59829c"
+  },
+  {
+    "path": "api/src/promo-codes/promo-codes.service.ts",
+    "bytes": 6877,
+    "sha256": "fd20e981eec4a41834a987b34f2cdcf6785951e3da7874d0931e744e095f0012"
+  },
+  {
+    "path": "api/src/ratings/ratings.controller.ts",
+    "bytes": 1486,
+    "sha256": "23a0e59aea9f3c6fb92a6e4b4070cbcca8e206121f46c890f1a266707137f256"
+  },
+  {
+    "path": "api/src/ratings/ratings.module.ts",
+    "bytes": 356,
+    "sha256": "681e2e988c443b799ac795ae7f7b6838cdf8160294de8ac049a5f373b1ff3039"
+  },
+  {
+    "path": "api/src/ratings/ratings.service.ts",
+    "bytes": 4938,
+    "sha256": "d74f5f624382cf01387079fd5cc888b5fe66f08a6f168a8cd236f7abfcf3a40e"
+  },
+  {
+    "path": "api/src/settings/settings.controller.ts",
+    "bytes": 297,
+    "sha256": "5ac755c3dfb9f2fa509188a25f8b6400e0e12e84c67f630845e83963df523333"
+  },
+  {
+    "path": "api/src/settings/settings.module.ts",
+    "bytes": 394,
+    "sha256": "587cd8cc0bd5fe614e34a29c8fd19c5e3db3001c498054c323489a3eb0874bed"
+  },
+  {
+    "path": "api/src/settings/settings.service.ts",
+    "bytes": 9393,
+    "sha256": "03312560b63fd2d44eb1559de0db6c84b606b32d46865c9790c8fa9c6973447d"
+  },
+  {
+    "path": "api/src/settlements/settlement-receipt.controller.ts",
+    "bytes": 1289,
+    "sha256": "773d4289624f832f7cfa92517fc628c45d439f8c2692dd26775a76a3a24f970c"
+  },
+  {
+    "path": "api/src/settlements/settlement-receipt.service.ts",
+    "bytes": 3936,
+    "sha256": "e02d7c40db0e9e8827d349fa5720c275177aa836e4611ff7505fa8aef5c7f140"
+  },
+  {
+    "path": "api/src/settlements/settlements.module.ts",
+    "bytes": 377,
+    "sha256": "9cbac018136671294720262ced0ced4749f8f1231c6fb59229f6affd2bc1d5ab"
+  },
+  {
+    "path": "api/src/support-channels/support-channels.controller.ts",
+    "bytes": 334,
+    "sha256": "d5fc21c1fb080f3fd7a7c7b11d70df1db4531696adaa7e9720371c3e691fe7db"
+  },
+  {
+    "path": "api/src/support-channels/support-channels.module.ts",
+    "bytes": 452,
+    "sha256": "110599581178f983ad20e26ff5d68fcb5c40538cc06f4ff26bfac7f0351c789d"
+  },
+  {
+    "path": "api/src/support-channels/support-channels.service.ts",
+    "bytes": 1686,
+    "sha256": "79e3353149e6a976e2e3d3728091869d410951ac94c66f5f4b903bb1576b5265"
+  },
+  {
+    "path": "api/tools/bootstrap-customer.js",
+    "bytes": 946,
+    "sha256": "d98c80c864376e1e7e33d25bc772d0fecb84bacd6cc94d9ded582f0c6629c625"
+  },
+  {
+    "path": "api/tools/check-demo.js",
+    "bytes": 4455,
+    "sha256": "560fd2d4489a2b47f2433717a5ed4cd086edfaa5c038f06da04f2f8c4f6b5bbd"
+  },
+  {
+    "path": "api/tsconfig.json",
+    "bytes": 610,
+    "sha256": "c22b2657379255ee3e4135e4822e1ce32341582bd4f2ae46a166f01f70b092c0"
+  },
+  {
+    "path": "customer/.easignore",
+    "bytes": 57,
+    "sha256": "dd1070c2009378cd9e2eb0685d7674c5ed4c73aaf8f0e0b92a40cfb17e797354"
+  },
+  {
+    "path": "customer/.env.example",
+    "bytes": 43,
+    "sha256": "56022baedb23f4e1a55c9ec8eeca429d8cc1d5b412d4cc33434302e74dfc2bdc"
+  },
+  {
+    "path": "customer/.gitignore",
+    "bytes": 412,
+    "sha256": "31935eb18307d87b9a9cc4af0754f8b74a77fd22a2f399b812f612bcda4f8490"
+  },
+  {
+    "path": "customer/android/.gitignore",
+    "bytes": 145,
+    "sha256": "324f03d86fe21f19b999a69e9c5997cf480cad59ceb7c0ab939874cacdc62914"
+  },
+  {
+    "path": "customer/android/app/build.gradle",
+    "bytes": 9909,
+    "sha256": "adbaa88e413027336d46cc1c8bdea81472343a67b3303a567b42ea4cb3dd4936"
+  },
+  {
+    "path": "customer/android/app/proguard-rules.pro",
+    "bytes": 562,
+    "sha256": "8bd4d7b69a1d78e8322b459b5e8d48234adce7481df04da34c0140d52ffb367a"
+  },
+  {
+    "path": "customer/android/app/src/debug/AndroidManifest.xml",
+    "bytes": 381,
+    "sha256": "524511ea714502e140d5b5d013cd27b68f4f92e127d84d9441fa8b4841c6d9c7"
+  },
+  {
+    "path": "customer/android/app/src/main/AndroidManifest.xml",
+    "bytes": 2675,
+    "sha256": "08133a7fe6b3c9c2978b16293d9449d5e907b81c555cd109bfec13da88186164"
+  },
+  {
+    "path": "customer/android/app/src/main/java/app/lahda/customer/MainActivity.kt",
+    "bytes": 2249,
+    "sha256": "1cf817e0f3e69ab33e201851ccec0b3fe5840c72ae72d27bdf0e95a4e49e6972"
+  },
+  {
+    "path": "customer/android/app/src/main/java/app/lahda/customer/MainApplication.kt",
+    "bytes": 2059,
+    "sha256": "9786e2f831bbc1f8c9564003717ba6d039abd23446149f91290f179ae6269b77"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 134,
+    "sha256": "409b06d15a4633ee6f8a2ad48282aad0ce3343f4d8c8f7cb84084de66acce782"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-hdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/assets_applogo.png",
+    "bytes": 44621,
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/assets_applogotransparentbackground.png",
+    "bytes": 38546,
+    "sha256": "578b0335aa05f85c66e26db2777adda76ca987a2da1dda4939904c31e87c0528"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_error.png",
+    "bytes": 516,
+    "sha256": "337470e7976e461fac1853028c59079447ef77c1a2bd22685684095ef04d1414"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_file.png",
+    "bytes": 158,
+    "sha256": "9d451494722374e78c363bca9a1612ecd2aff9259fb49912155e6bae2685b2a5"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_forward.png",
+    "bytes": 250,
+    "sha256": "bda87077fccd3ca54ecff64af6bf49a2f5020cefa4aab9121cba4d92d0a3004b"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_pkg.png",
+    "bytes": 429,
+    "sha256": "ac270f78154365e1006401f715d6fd93c448237148bbf3ef0ea7eb0c0b235144"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 100,
+    "sha256": "8b61a4c7ef70dc92753f0494976482f66fd4150ec23dfc772ab65e10373afa55"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png",
+    "bytes": 913,
+    "sha256": "2c95e8c2675e799335fd0046bb07dbda06cb7ecff51ed37922c6309d619cc4d3"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 258,
+    "sha256": "340db105985a026666d1d0dc557327de9a9d86c24e124ebf51f5bb095a6251c2"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 134,
+    "sha256": "906666dd689346ada232ce3689adef907b4257fa1b593f03638d2b9497f64884"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 405,
+    "sha256": "9dc5451b4a15b9109ca40dd8f628033665d15e3fe2a007385c37f60468a3c8f7"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 167,
+    "sha256": "ffa7ee45b76405ba73921495008f7d68c9de6395f4b6941db063465f6e382320"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 687,
+    "sha256": "23f7e613855954b34fd7959f525544f344ae1fe4699988f60932eba3ebcba88c"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 207,
+    "sha256": "84cf5eb3b20250f69e0e4733beb4da5f417f0682892a5ad1b5e62570753c21b1"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "24e7a6812169ef04479e37e8e52a3dfda1a60a787fd7fa1e18e47b5140abd399"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+    "bytes": 1954,
+    "sha256": "a0ffe99c6c5b933311be2b56a1769600dcdca909289cb4446e58cac2b6c27c7c"
+  },
+  {
+    "path": "customer/android/app/src/main/res/drawable/splashscreen.xml",
+    "bytes": 147,
+    "sha256": "7dc572bc73dfad8e2a22a194c6c30ea06a371fe28cd0921a4a9b6fbd2a111d1a"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "bytes": 261,
+    "sha256": "01d42446e4472a9f8a704dfa40841d2b8541d414ad73f1a4f580e7d119d93ed0"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "bytes": 261,
+    "sha256": "01d42446e4472a9f8a704dfa40841d2b8541d414ad73f1a4f580e7d119d93ed0"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "bytes": 2947,
+    "sha256": "4bd38dca85e657c90484dda494b93844d086e3c72d3bcfa1ec061700c227555e"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "bytes": 2947,
+    "sha256": "4bd38dca85e657c90484dda494b93844d086e3c72d3bcfa1ec061700c227555e"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "bytes": 4597,
+    "sha256": "9aa185a3fba34d4a1eef533dcba92567668b9f3a2137bfd5829662b97054b98b"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "bytes": 1794,
+    "sha256": "6a41921fbc997285deda3e173cd5b1fbe03102ea61899f9a8c010119eac89fdd"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "bytes": 1794,
+    "sha256": "6a41921fbc997285deda3e173cd5b1fbe03102ea61899f9a8c010119eac89fdd"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "bytes": 2875,
+    "sha256": "781880fed8014ad57e1d743e5c6eb28e877a68937292aeb967775e08dc1f1b88"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "bytes": 4067,
+    "sha256": "90011acb6ad67df5cec108fec00c472bb41c3d013715c852b26ba65f1a5b7771"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "bytes": 4067,
+    "sha256": "90011acb6ad67df5cec108fec00c472bb41c3d013715c852b26ba65f1a5b7771"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "bytes": 6302,
+    "sha256": "9421c0b85b3252dccfca2d9498cbc5377c681520fd4ea599bd9109627b491fbc"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "bytes": 6230,
+    "sha256": "ce5e34592affce58a02e0bba9022746a33b7c3de202e8f083637671b44ddb179"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "bytes": 6230,
+    "sha256": "ce5e34592affce58a02e0bba9022746a33b7c3de202e8f083637671b44ddb179"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "bytes": 9812,
+    "sha256": "e0f7c932146a36d93c10a64bdcfd42f7e31ef6fb4769192444e587caaab26622"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "bytes": 8790,
+    "sha256": "9a69193284f5edd5c310298b2f22e17439497a17b1d83e7ff0d79da8a6ba85e2"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "bytes": 8790,
+    "sha256": "9a69193284f5edd5c310298b2f22e17439497a17b1d83e7ff0d79da8a6ba85e2"
+  },
+  {
+    "path": "customer/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "bytes": 13435,
+    "sha256": "b1d96ca2dbdd338651b7139306f1d9ad2c8c02d0d5ab3768ebc5d51b7e7d29ea"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_200extralight_cairo_200extralight.ttf",
+    "bytes": 92740,
+    "sha256": "578f271954ad8b4a49459b07255dcf572025daa0045f3364ce738618d5da81cc"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_300light_cairo_300light.ttf",
+    "bytes": 92800,
+    "sha256": "c137f678a3c8b1f12e730fa58f4ddb5334e78719528015765478c9c2de603d57"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_400regular_cairo_400regular.ttf",
+    "bytes": 94480,
+    "sha256": "44786a38e27c58262cbd65341beda4fa4f6c7085ec42e830b35ba1ae37807030"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_500medium_cairo_500medium.ttf",
+    "bytes": 94644,
+    "sha256": "64c7cab8e2cf003c3fc4edca1820e7e1b0ee667373cf8500060bca97262a2b65"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_600semibold_cairo_600semibold.ttf",
+    "bytes": 94688,
+    "sha256": "3fe2e182a88a5d64a96b289fd1c518bdc9b14ec91525a03990c35e91f7863a2a"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_700bold_cairo_700bold.ttf",
+    "bytes": 94652,
+    "sha256": "a0e58d71b85b15902ea87914d8e31a6d22da48ac2db70213dcfd1a7dad3f198a"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_800extrabold_cairo_800extrabold.ttf",
+    "bytes": 94708,
+    "sha256": "67526b4f18bb9bb568e81135df9eec813a15cc1252ae784ea505236e75a5b56e"
+  },
+  {
+    "path": "customer/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_900black_cairo_900black.ttf",
+    "bytes": 94716,
+    "sha256": "34880d805ad84bb9c195becc1379b89986ee1efc8f7858e276234c04f4de63d9"
+  },
+  {
+    "path": "customer/android/app/src/main/res/values-night/colors.xml",
+    "bytes": 12,
+    "sha256": "c30a9f37e6b34372e1db8c812d64a18719acf7c52c11ff2f7e5e5ed5e05c2072"
+  },
+  {
+    "path": "customer/android/app/src/main/res/values/colors.xml",
+    "bytes": 228,
+    "sha256": "a21bba94054bbb00350b1421cdf06b1e6de1ffa5bab515d8d99b97cfec206fea"
+  },
+  {
+    "path": "customer/android/app/src/main/res/values/strings.xml",
+    "bytes": 251,
+    "sha256": "eb7a876aac019a19d2ca679bc73a433de1b1e34a732b37427c058f8dee03769d"
+  },
+  {
+    "path": "customer/android/app/src/main/res/values/styles.xml",
+    "bytes": 1081,
+    "sha256": "893856a75ce7fbe44367b400de191d231d95a488877cb7e6f89aff9bb8eb72fb"
+  },
+  {
+    "path": "customer/android/app/src/main/res/xml/network_security_config.xml",
+    "bytes": 232,
+    "sha256": "54be2adc440aec5cb879a59d989610ae435077796af9f8018eaa5b5b6627327c"
+  },
+  {
+    "path": "customer/android/build.gradle",
+    "bytes": 2261,
+    "sha256": "16b7994a938b21f94a4786aea3bc13bc8eabb4d76f137d3acec0c9570869fcf6"
+  },
+  {
+    "path": "customer/android/expo-module-gradle-plugin/build.gradle",
+    "bytes": 195,
+    "sha256": "36364f41da064e6b197a54ae90333ad195c5947244f7cae743627de8e0f0c48f"
+  },
+  {
+    "path": "customer/android/expo-module-gradle-plugin/settings.gradle",
+    "bytes": 154,
+    "sha256": "333939da625bd60cf394188c87291684762b04d37ea60d68ea35e9d5c3a9a9d8"
+  },
+  {
+    "path": "customer/android/expo-module-gradle-plugin/src/main/groovy/ExpoModulePlugin.groovy",
+    "bytes": 815,
+    "sha256": "fcf9a8c81380f864021d825e8ae118259ec895755810930d7075a902d7213bbc"
+  },
+  {
+    "path": "customer/android/gradle.properties",
+    "bytes": 2764,
+    "sha256": "f7de14f1e5b8ce5a4b0bf3eb3169216752f96a9a12cae843c209c9b734453c56"
+  },
+  {
+    "path": "customer/android/gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43453,
+    "sha256": "cb0da6751c2b753a16ac168bb354870ebb1e162e9083f116729cec9c781156b8"
+  },
+  {
+    "path": "customer/android/gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 257,
+    "sha256": "d3cb6c48156edfece724fb8d922e5077b391bb59073404b7b19030adebf062bc"
+  },
+  {
+    "path": "customer/android/gradlew",
+    "bytes": 8692,
+    "sha256": "fc977a94723af68aaffa4e5d60496fb4aeed1884b6b19e5e2f2fd7612673313d"
+  },
+  {
+    "path": "customer/android/gradlew.bat",
+    "bytes": 2918,
+    "sha256": "bdecf875b6868cbcbd36a1f85eedf0832f358ff28092c5797ed645f7edce77d9"
+  },
+  {
+    "path": "customer/android/react-settings-plugin/build.gradle.kts",
+    "bytes": 392,
+    "sha256": "29f15130dbd960e4148ea7a039a66c9f954358b3591f4e977f9abaf016bc0f9a"
+  },
+  {
+    "path": "customer/android/react-settings-plugin/src/main/kotlin/expo/plugins/ReactSettingsPlugin.kt",
+    "bytes": 249,
+    "sha256": "c8cc913ba5511a6ececfc4eea30a7de27f2605ea1f348731a77d71362cea178b"
+  },
+  {
+    "path": "customer/android/settings.gradle",
+    "bytes": 2739,
+    "sha256": "125e4e4f5a6c1afb859f478a972662caa8047dcdc48cdf0a239562548a245f03"
+  },
+  {
+    "path": "customer/api/client.ts",
+    "bytes": 14763,
+    "sha256": "ff38c6c538c1e129aa1ea71d0f7efa41df34e724bd6e037202430c8ec4d94c58"
+  },
+  {
+    "path": "customer/api/promo.ts",
+    "bytes": 316,
+    "sha256": "31a97762acd54ed4451892564402ca75371f755724d9aca6101c40c8fa280d38"
+  },
+  {
+    "path": "customer/app.config.js",
+    "bytes": 544,
+    "sha256": "339204771457145895e9410610d29d6bec39470877dbd428c2209b2be0fc0692"
+  },
+  {
+    "path": "customer/app.json",
+    "bytes": 1383,
+    "sha256": "42b479647bb9538ba92f455e3c5b74188a9263d92723cba6d563e6fed69134f1"
+  },
+  {
+    "path": "customer/app/(auth)/_layout.tsx",
+    "bytes": 235,
+    "sha256": "b6f3db4880ec5d59893935be5c60ad66391931fba53b4d686522856143b45693"
+  },
+  {
+    "path": "customer/app/(auth)/index.tsx",
+    "bytes": 8165,
+    "sha256": "26faf0e6195e546fe4a1808ffe256d410197e5e7ec0815e54117ef60eaeb0335"
+  },
+  {
+    "path": "customer/app/(tabs)/_layout.tsx",
+    "bytes": 858,
+    "sha256": "501ee82ed2a8e5d9a633488f7be203441864f6a566f254779092057cd3ed0917"
+  },
+  {
+    "path": "customer/app/(tabs)/account.tsx",
+    "bytes": 5094,
+    "sha256": "fe408cc80d3462fe882c68bd2dae775ab993913f91d6dd359bfe6c45f719500c"
+  },
+  {
+    "path": "customer/app/(tabs)/cart.tsx",
+    "bytes": 16015,
+    "sha256": "96f132f9a86db6f167f49d66387bd4b414b47f4676f15de79cd237abf81bf11a"
+  },
+  {
+    "path": "customer/app/(tabs)/delivery.tsx",
+    "bytes": 1258,
+    "sha256": "9593c6fc852b573b4998c809c954dd3d3ab051735d1bec083c5b363ed7a10db8"
+  },
+  {
+    "path": "customer/app/(tabs)/index.tsx",
+    "bytes": 9904,
+    "sha256": "8ae7a5e3efe9e9471761d33b2d863c535c416e086b452fa28d5c8dadd6d57163"
+  },
+  {
+    "path": "customer/app/(tabs)/orders.tsx",
+    "bytes": 6057,
+    "sha256": "59a700815bee49f99039be2e66e48fdd58ee1cc46442bede08b3708c11b07fd5"
+  },
+  {
+    "path": "customer/app/(tabs)/search.tsx",
+    "bytes": 6543,
+    "sha256": "3c244293e0807127693d1adb4b1514220f99d41bf75fb332b32994dced2fc56d"
+  },
+  {
+    "path": "customer/app/_layout.tsx",
+    "bytes": 3451,
+    "sha256": "229ba63a1f10b44744c6d82be48a3d14f45dc58e2587641cfe8454aea6e94926"
+  },
+  {
+    "path": "customer/app/addresses/_layout.tsx",
+    "bytes": 260,
+    "sha256": "a2ad3eab7f669e754b762dd5b05dda2c57a0bb24bb62bf9773ea3eb3da64e201"
+  },
+  {
+    "path": "customer/app/addresses/add-details.tsx",
+    "bytes": 11454,
+    "sha256": "d2090dda6991b19bd25a123a5b4f7dafbff129a39fc6f59e128ddfb2f0295c11"
+  },
+  {
+    "path": "customer/app/addresses/add.tsx",
+    "bytes": 295,
+    "sha256": "8f77ee608ecaef9e24dafe17e07cb4ae0da68c55d374c33c92cdf088e20231f3"
+  },
+  {
+    "path": "customer/app/addresses/edit.tsx",
+    "bytes": 10351,
+    "sha256": "a972b947f156e0b2e25350fbd3542bf623e48f38cbace3949a53f0bd832f014c"
+  },
+  {
+    "path": "customer/app/addresses/index.tsx",
+    "bytes": 8355,
+    "sha256": "5ae628d90d98d02248728f3cc9bc66673a84a9f5c10849ce31cfb8aeb1b388fd"
+  },
+  {
+    "path": "customer/app/addresses/pick-location.tsx",
+    "bytes": 5924,
+    "sha256": "6fa3d099c4e1dd3e382af8cd4759650efd5cea488a8e1312b5f98e9aafdecfbf"
+  },
+  {
+    "path": "customer/app/checkout.tsx",
+    "bytes": 32633,
+    "sha256": "0d2214113f99432c539aa8dee3987e6af10d7a1954abea20ae0a123e69144bff"
+  },
+  {
+    "path": "customer/app/faq.tsx",
+    "bytes": 3430,
+    "sha256": "a95bb0210461ee26bf84dc8a872ba5b45941fe57a65ce06e0bd1843eb53ba678"
+  },
+  {
+    "path": "customer/app/favorites.tsx",
+    "bytes": 7962,
+    "sha256": "2dd9cc0357db547d01235f320a297c770165b3c672e65215a75467540cff352b"
+  },
+  {
+    "path": "customer/app/index.tsx",
+    "bytes": 767,
+    "sha256": "ada86ac3e251feca6fac6163d80401ae971d57b08cb8ea76cfbe3e384ffee625"
+  },
+  {
+    "path": "customer/app/legal.tsx",
+    "bytes": 2037,
+    "sha256": "5d1c7ca51c80719c4864f4c63bf3d371de40ee9b63f096bb9843719ed6da8289"
+  },
+  {
+    "path": "customer/app/notifications.tsx",
+    "bytes": 7841,
+    "sha256": "b2c9fdaeeedf7cd8faf46ff1c26f43b5b769ba2356bdf8fc8c48bf23b148bf21"
+  },
+  {
+    "path": "customer/app/order/[id]/_layout.tsx",
+    "bytes": 258,
+    "sha256": "dd7eb64a5447161c6a409278f0fe286dc152483e983dfdc92e3cc9b23fb512f2"
+  },
+  {
+    "path": "customer/app/order/[id]/index.tsx",
+    "bytes": 35340,
+    "sha256": "b07656db7058b640ff257fd57f7f850e713011e66bec1568bd2be84d1db2fe76"
+  },
+  {
+    "path": "customer/app/order/[id]/tracking.tsx",
+    "bytes": 12798,
+    "sha256": "8b4f5ca30f2a626b59339738a4fd664716330b4d1af60be769054c1d4fcf8cfc"
+  },
+  {
+    "path": "customer/app/product/[id].tsx",
+    "bytes": 14632,
+    "sha256": "a8fa737e1e431fc2b2bea6e8a3c62c20349504ec15969e6a7e0f0920815a8adf"
+  },
+  {
+    "path": "customer/app/profile/edit.tsx",
+    "bytes": 17056,
+    "sha256": "e7dec87ee582722cde248690bd8ddb7d3ba0a7f2a0c37d84d987853df191b5b9"
+  },
+  {
+    "path": "customer/app/store/[slug].tsx",
+    "bytes": 25011,
+    "sha256": "e44d00daf0499454a7e00d1deef454f8a21cf1062fa091dbe558636c4149273d"
+  },
+  {
+    "path": "customer/app/support.tsx",
+    "bytes": 5507,
+    "sha256": "c7093768ad57e1f5aa29a194c13e382f1abf1b749d6b5407eb74a9111fd9eca4"
+  },
+  {
+    "path": "customer/app/thank-you.tsx",
+    "bytes": 3934,
+    "sha256": "81bcb9909115d6652e05e40f816fe27438ed14477cfa078c3388323287f932c7"
+  },
+  {
+    "path": "customer/assets/adaptive-icon.png",
+    "bytes": 70,
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0"
+  },
+  {
+    "path": "customer/assets/app-logo-transparent-background.png",
+    "bytes": 38546,
+    "sha256": "578b0335aa05f85c66e26db2777adda76ca987a2da1dda4939904c31e87c0528"
+  },
+  {
+    "path": "customer/assets/app-logo.png",
+    "bytes": 44621,
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19"
+  },
+  {
+    "path": "customer/assets/app-symbol.png",
+    "bytes": 29338,
+    "sha256": "5139a7f24d12e912a5cd0e0eb5db760f2552071b8a3a5b1872a4f87efad25214"
+  },
+  {
+    "path": "customer/assets/auth/.gitkeep",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "customer/assets/icon.png",
+    "bytes": 70,
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0"
+  },
+  {
+    "path": "customer/assets/login-register-background.png",
+    "bytes": 1850940,
+    "sha256": "62199fa66dce7a8927665bd882e00cb4d84bcfc7bcb572b445999400d6a98fc4"
+  },
+  {
+    "path": "customer/assets/splash.png",
+    "bytes": 70,
+    "sha256": "6b7fa434f92a8b80aab02d9bf1a12e49ffcae424e4013a1c4f68b67e3d2bbcd0"
+  },
+  {
+    "path": "customer/assets/sunset-3d/delivery-hero.png",
+    "bytes": 256662,
+    "sha256": "f749ed90e840627479db80a80689cdf053054842641b99192ffc3baaec6a82f0"
+  },
+  {
+    "path": "customer/assets/sunset-3d/empty-state.png",
+    "bytes": 195418,
+    "sha256": "11ae63e9c08cd2025592b19cda272d815933cfdff53f9773a3341104ecd132b1"
+  },
+  {
+    "path": "customer/assets/sunset-3d/order-success.png",
+    "bytes": 230084,
+    "sha256": "687f7c366b1c6d8d99cc79a2c45ff58966c7e371b214c82697cd333254eae7e5"
+  },
+  {
+    "path": "customer/babel.config.js",
+    "bytes": 164,
+    "sha256": "cbc59bc61915542d352009ee9b0c573ed0b2ec4544c060e2289833d1bb361b8f"
+  },
+  {
+    "path": "customer/build-android-aab.ps1",
+    "bytes": 1700,
+    "sha256": "a3561a4a740b15583432f94ad4e7204d39518979cf443fa5d6c88f627d56e537"
+  },
+  {
+    "path": "customer/components/AddressMap.tsx",
+    "bytes": 928,
+    "sha256": "4ffb58dcd4200879d2e383c9d4b6578784a2f1c5966e0e40250ffe0d7258410d"
+  },
+  {
+    "path": "customer/components/AnimatedSplashScreen.tsx",
+    "bytes": 8017,
+    "sha256": "a30e3c534a3d835796d497077274a2bee5371c4dcb15fd27747d305a644bd660"
+  },
+  {
+    "path": "customer/components/AppLogoHeader.tsx",
+    "bytes": 738,
+    "sha256": "db4aca24f913c74a58a386928c393a892e0440e2767cc05e497bc5c87f5b62a1"
+  },
+  {
+    "path": "customer/components/Badge.tsx",
+    "bytes": 1549,
+    "sha256": "a9af954c5f99f8402eac1ccfa831926bb6db31e18f65efe63b8c43b7bceeb616"
+  },
+  {
+    "path": "customer/components/CategoryChip.tsx",
+    "bytes": 1659,
+    "sha256": "c76b55c91c99f5aea2b0283a18e8ffaeed63b107a03dd3a71580a3d7d387e92f"
+  },
+  {
+    "path": "customer/components/CustomTabBarButton.tsx",
+    "bytes": 1949,
+    "sha256": "9c7e35a48428ec8bf2ee1ff9b16da8d7cf313a4aa4a2ad87e9d514ceb759462c"
+  },
+  {
+    "path": "customer/components/FigmaTabBar.tsx",
+    "bytes": 3172,
+    "sha256": "061c155f5689d3737e0c587a34e053a96080f1e217177df145517bb2ec57da10"
+  },
+  {
+    "path": "customer/components/FloatingMascot.tsx",
+    "bytes": 2105,
+    "sha256": "ae320c307bcc7ffa0faac89d558f7ac2d2dcaf398e34602d1cf8fabbe6e86b38"
+  },
+  {
+    "path": "customer/components/HamburgerMenu.tsx",
+    "bytes": 3354,
+    "sha256": "9ccbb5bec1c4d7931323a545e4ac796e548d07d6a87d994dfd10f7dfd80f61bc"
+  },
+  {
+    "path": "customer/components/HomeHeader.tsx",
+    "bytes": 3613,
+    "sha256": "563db2ececec58519adef141ac02baf5aa90083551c6f4a98704ade1d43e37e8"
+  },
+  {
+    "path": "customer/components/HomeStoreCard.tsx",
+    "bytes": 4257,
+    "sha256": "83b5025be92059d4b20a25ca791ce509202698ea0d0a6ceedeabe20e2a2085b7"
+  },
+  {
+    "path": "customer/components/Icons.tsx",
+    "bytes": 26592,
+    "sha256": "b30105cdaa994c6bde950ffab6cfef85f928cd39b2c1005b9bdf8ac0386fed2b"
+  },
+  {
+    "path": "customer/components/MapMapbox.tsx",
+    "bytes": 4177,
+    "sha256": "8f69d8fa63c35c47c445c7bf4f0cb4b2e3030e336a523fdb366dee0e2780b182"
+  },
+  {
+    "path": "customer/components/MapOSM.tsx",
+    "bytes": 16498,
+    "sha256": "108b4b124a0f9da16e0a9d85a563492c3286b938d89e7a9bc4b475cd2948f069"
+  },
+  {
+    "path": "customer/components/OrderTrackingMap.tsx",
+    "bytes": 920,
+    "sha256": "84c7faafb81f209a67ff7735f89a13fe7299ede358a201932dd24b60efcf6df9"
+  },
+  {
+    "path": "customer/components/OrderTrackingMapMapbox.tsx",
+    "bytes": 7627,
+    "sha256": "963749e6c36a1fea5440258b195446b43dacf4a3b006fa1adeb20fc01767dac1"
+  },
+  {
+    "path": "customer/components/OrderTrackingMapOSM.tsx",
+    "bytes": 15148,
+    "sha256": "79c6c62f8a0a1e83d60b67495162967e77fe975efd68dbf94ab279ddd02ce4c9"
+  },
+  {
+    "path": "customer/components/ProfileMenu.tsx",
+    "bytes": 4605,
+    "sha256": "8cf7e018788b027a3e155448102e1414f02caa5a4a647893ba5b254a8fd9dd2f"
+  },
+  {
+    "path": "customer/components/SearchBar.tsx",
+    "bytes": 2175,
+    "sha256": "e3d9e9d6fc0316c8fdcb64c221ca3b770c9eaa49207a35c5d8d1538d84b1b58e"
+  },
+  {
+    "path": "customer/components/SplashScreen.tsx",
+    "bytes": 6843,
+    "sha256": "81f0f18a8f2100ddf617efe82762b7f003bbbcd8913297d2c219c76af02a6ff2"
+  },
+  {
+    "path": "customer/components/StandaloneSplashScreen.tsx",
+    "bytes": 11064,
+    "sha256": "d040da87e8e67abcae8d7e152f35fe098ad73961976592af073bb62f629c815a"
+  },
+  {
+    "path": "customer/components/StoreCard.tsx",
+    "bytes": 12751,
+    "sha256": "d799bf84d822a630463b2f2d24e96b90a02833feb8db1adea8f5d5ce02f66067"
+  },
+  {
+    "path": "customer/components/auth/AuthInput.tsx",
+    "bytes": 2013,
+    "sha256": "cecb6170016b9488a5e39f3232eebc46d91e4b48190222e72522d9ed39eb0730"
+  },
+  {
+    "path": "customer/components/confirmation-dialog.tsx",
+    "bytes": 2175,
+    "sha256": "72f8b69d03e7c3b78f9fb1d38a84fd6fdb3c0a12ef826522fecc30575181d09a"
+  },
+  {
+    "path": "customer/components/customer-header.tsx",
+    "bytes": 1348,
+    "sha256": "30742312b1027fe3993edae7432b433b4819620438ad13ba286eda9a08fbb2dd"
+  },
+  {
+    "path": "customer/components/feedback-banner.tsx",
+    "bytes": 756,
+    "sha256": "b93ba67462f5939070cc858b3225fa7039835fad7282c7206fd02d824422f035"
+  },
+  {
+    "path": "customer/components/food-ui.tsx",
+    "bytes": 10774,
+    "sha256": "e4fee1d7983532a7893b3f0929a5ea2e80523d595cc715970a00dd1d1cdb23ae"
+  },
+  {
+    "path": "customer/components/sunset/AppText.tsx",
+    "bytes": 707,
+    "sha256": "85e5f48efe7614ed7d9dccb61bb93268d60f75894e1af7d05d182ce6f144afdf"
+  },
+  {
+    "path": "customer/components/sunset/GlassCard.tsx",
+    "bytes": 1581,
+    "sha256": "a44d18e0e432d3bab576d6a57b82c82f622835d91ea0954aa673f43fcb4cab00"
+  },
+  {
+    "path": "customer/components/sunset/SunsetBackground.tsx",
+    "bytes": 1459,
+    "sha256": "cf3de812fe1efbeefc236904a2e01ec504b62a23a2f99fe093067e526987433b"
+  },
+  {
+    "path": "customer/components/sunset/TactilePressable.tsx",
+    "bytes": 1792,
+    "sha256": "0e8ba65f287a18543902162a45a6a2483bf2232eaeb64ea80d919d1f36ad7940"
+  },
+  {
+    "path": "customer/components/sunset/ThreeDAsset.tsx",
+    "bytes": 630,
+    "sha256": "f14bda30008801ae626f5d0c806312170d546e78ae21f01208015f70be8546cf"
+  },
+  {
+    "path": "customer/components/sunset/index.ts",
+    "bytes": 164,
+    "sha256": "05f7fa4e9e2152643926ae512035bc309545998c87608a893442a04b5e2ed7e1"
+  },
+  {
+    "path": "customer/components/ui/CategoryChip.tsx",
+    "bytes": 1952,
+    "sha256": "81aa8765d67c2119de743a9f1480e9c3a061a8560167a12241001dced3d8f980"
+  },
+  {
+    "path": "customer/components/ui/Divider.tsx",
+    "bytes": 275,
+    "sha256": "14830e85702a8f7f607ccc1fad62de1f9d95c29f8935230c3e9bf9f576c15ada"
+  },
+  {
+    "path": "customer/components/ui/EmptyState.tsx",
+    "bytes": 655,
+    "sha256": "1ad4fda1184be7cc284bdb261d719db477ca7b3ddf375ba6e90b7be8b2045fac"
+  },
+  {
+    "path": "customer/components/ui/HeaderRow.tsx",
+    "bytes": 1028,
+    "sha256": "a7680b3800c6b68d6930bb302ea244456552fe255d3c828c51cf56b2981bd22e"
+  },
+  {
+    "path": "customer/components/ui/IconButton.tsx",
+    "bytes": 1151,
+    "sha256": "4965fe7160c536f77ed95c76d1e2cb52e6d48af4e816c261e6f127bc0eb0aef4"
+  },
+  {
+    "path": "customer/components/ui/ListItem.tsx",
+    "bytes": 1628,
+    "sha256": "118b001aa0634139fe035e63bdf86fb933b58d850d70e0f7bb0292b796656d93"
+  },
+  {
+    "path": "customer/components/ui/LocationCapsule.tsx",
+    "bytes": 1506,
+    "sha256": "1431f0fb4d22140e20d9cff26d33637d6afac7344b27fce7d0dec5571e575e11"
+  },
+  {
+    "path": "customer/components/ui/OrderSummaryBar.tsx",
+    "bytes": 1072,
+    "sha256": "54fced9debcc25010056c3d2c2fa9c3ce288dc3c87100f4569b41667ecf0d0a2"
+  },
+  {
+    "path": "customer/components/ui/PrimaryButton.tsx",
+    "bytes": 2075,
+    "sha256": "debb9d14d0557ec24e1e2d7108f1a626bf2123e495c5942b8a33b730c17e7eae"
+  },
+  {
+    "path": "customer/components/ui/SectionHeader.tsx",
+    "bytes": 970,
+    "sha256": "b12762c153ec8abbe5fc5fb9648cc5bff20c1cc8c38eb26b9f29d1f7d5aeb8cf"
+  },
+  {
+    "path": "customer/components/ui/Skeleton.tsx",
+    "bytes": 2821,
+    "sha256": "8593652ddf3aa33471274c1b856de6e21c5671667ed0453870880902e054f0a1"
+  },
+  {
+    "path": "customer/components/ui/StepperCapsule.tsx",
+    "bytes": 2272,
+    "sha256": "a47de39ae1f6f4bdce20a6cdbeda406c72fa3e5180c33aa67483e20948345566"
+  },
+  {
+    "path": "customer/components/ui/index.ts",
+    "bytes": 570,
+    "sha256": "40f79fb5e939d44c8cd1620ff813c7c9362aecd193806d00ca7c1ad8dfc75396"
+  },
+  {
+    "path": "customer/constants/splashConfig.ts",
+    "bytes": 1560,
+    "sha256": "ab5a99b4a899f289dc2087af98d7e3efdc7a9e040074059d0c7f378556fa0ff9"
+  },
+  {
+    "path": "customer/constants/theme.ts",
+    "bytes": 4565,
+    "sha256": "b8145727de0017aff5df6707e5786001b41763b184485c1f4132ed063667515f"
+  },
+  {
+    "path": "customer/contexts/AppSettingsContext.tsx",
+    "bytes": 1086,
+    "sha256": "ca9c38c9311026e1c0b8965321987040f842f5014ebc88b89e0ee4386b830214"
+  },
+  {
+    "path": "customer/contexts/AuthContext.tsx",
+    "bytes": 3421,
+    "sha256": "7ec867d1a03ec6addfb8bedeb466349f87afabae3b043d8b33f959196c3d776c"
+  },
+  {
+    "path": "customer/contexts/CartContext.tsx",
+    "bytes": 1011,
+    "sha256": "5ee837ce1031948f84b614c9e8a7801009503b6a84d7fbc321cacd43d8fed05f"
+  },
+  {
+    "path": "customer/contexts/ThemeContext.tsx",
+    "bytes": 493,
+    "sha256": "88e96cc3ddc9745882cbd05314d5556abee259d3feff479c48f668269c140b38"
+  },
+  {
+    "path": "customer/eas.json",
+    "bytes": 459,
+    "sha256": "720838cef9cb4c78c6c77e4ccbd7000d8f7cc1b52d1d5d5c8b41ce88f3fd7d07"
+  },
+  {
+    "path": "customer/hooks/orderUpdates.ts",
+    "bytes": 595,
+    "sha256": "5ef99e04726f5114a446448db954f30b2d5d51115c096b11a46e2b9b0ff2b64e"
+  },
+  {
+    "path": "customer/hooks/useNotifications.ts",
+    "bytes": 5059,
+    "sha256": "a4509012f6981592a8e402a1ff5a81c6d6d0684df0feb6459c87703926502b52"
+  },
+  {
+    "path": "customer/index.js",
+    "bytes": 29,
+    "sha256": "a182f83ec040c4075b603c473abf3d4bbbd60e545890ae25298ac3923eeaad74"
+  },
+  {
+    "path": "customer/lib/mapbox.ts",
+    "bytes": 721,
+    "sha256": "c5766178e6d9b1127f5323397a48d325ab8559e3ebb400903088f3a2f20c96e1"
+  },
+  {
+    "path": "customer/lib/order-status.ts",
+    "bytes": 1433,
+    "sha256": "69877ff7a9163fb34c5c58e9b19ca7f89c77c1068757ec0c073b7c5a44594803"
+  },
+  {
+    "path": "customer/lib/useNativeMapbox.ts",
+    "bytes": 223,
+    "sha256": "9ad93dafdf6c7a5010b5d5343f635911e8468bd5c63073545542648272f6e938"
+  },
+  {
+    "path": "customer/lib/visual-fixtures.ts",
+    "bytes": 1686,
+    "sha256": "89ae4c5fa21bf61ff96f0b2db09ae86a74886af00814b9429fc267b854169266"
+  },
+  {
+    "path": "customer/metro.config.js",
+    "bytes": 816,
+    "sha256": "3a4c37b82c45f67d7fb99da0d888145db0d7916621260633197df5de5b673756"
+  },
+  {
+    "path": "customer/package-lock.json",
+    "bytes": 663536,
+    "sha256": "20e042554b8779c9d1c0c005c752c039b4458ee94a76f7257cb402d2a17c14b3"
+  },
+  {
+    "path": "customer/package.json",
+    "bytes": 1864,
+    "sha256": "a25bc1fa1988d656dbfe3c3d534da23bbb6725f896e92dbfd3300a2d5a970b28"
+  },
+  {
+    "path": "customer/patches/@rnmapbox+maps+10.2.10.patch",
+    "bytes": 1822,
+    "sha256": "f12337f476af5450e4bd4d02bcd696007dc875ce22a4377d61bf20283336e90a"
+  },
+  {
+    "path": "customer/patches/expo-modules-core+1.12.26.patch",
+    "bytes": 832,
+    "sha256": "32168b5d8c017969ca24693ba091a1c3ecc8609875835ea4df30c2e60b3275a7"
+  },
+  {
+    "path": "customer/patches/expo-modules-core+1.12.26.patch.disabled",
+    "bytes": 961,
+    "sha256": "8ae896df266c446ad5f6d58b4a30de76d0c0d3650a14bda19e239b6408fcbb8b"
+  },
+  {
+    "path": "customer/pnpm-lock.yaml",
+    "bytes": 424492,
+    "sha256": "15ed3f58650f328dc5a3ba3bd1f74a5e7aa82c67078d039bb2be6d1a68bfc8cd"
+  },
+  {
+    "path": "customer/tsconfig.json",
+    "bytes": 286,
+    "sha256": "e62429165ce8cf3b164ca0e80b3511eec1420a662d6162455e1047339f8f628d"
+  },
+  {
+    "path": "customer/utils/deliveryZone.ts",
+    "bytes": 6029,
+    "sha256": "e2d9f4f7ca268c7edada94fdd91c6d0fff96351ec3f41ccce1e4f55eb45636e4"
+  },
+  {
+    "path": "docs/api.ar.md",
+    "bytes": 2343,
+    "sha256": "ff0b3afad776e022266b57ad5c7a39fd6409bae812a2c3b27fbfaa454878bee6"
+  },
+  {
+    "path": "docs/api.md",
+    "bytes": 1875,
+    "sha256": "0b5e592ab28749702b4e0e5df6802bf4fe7e7d67a68a1dd16ae3980ac0e5c639"
+  },
+  {
+    "path": "docs/architecture.ar.md",
+    "bytes": 2230,
+    "sha256": "62b5a2f0f2037bcf175ca2851fcf3e7892d2c3349f32467ffc61628d8a554f92"
+  },
+  {
+    "path": "docs/architecture.md",
+    "bytes": 2240,
+    "sha256": "d408036aeb7dfeef562ad1f06f9d218b5126d59c86f255bef4a60411fefe662e"
+  },
+  {
+    "path": "docs/architecture.svg",
+    "bytes": 2661,
+    "sha256": "9bcea23e6f1dba0fdd0ff516f11f0a2f7edb99cc018ab9f2a514ebd336449ad5"
+  },
+  {
+    "path": "docs/asset-manifest.json",
+    "bytes": 29005,
+    "sha256": "81884f1e17ac421f172ad2d54054c1fc16bc31f09a497e3c5be7106a210bca6b"
+  },
+  {
+    "path": "docs/case-study.ar.md",
+    "bytes": 2976,
+    "sha256": "612923205ff9d86c15aa9c03d4cd34664d5ed4cbce42893fb9eb86388c9709ee"
+  },
+  {
+    "path": "docs/case-study.md",
+    "bytes": 2445,
+    "sha256": "3be172e3397ae57b473918e5ad3853e8d7df0d252d964c6fc1f5dd73cb6e35ab"
+  },
+  {
+    "path": "docs/demo.ar.md",
+    "bytes": 2621,
+    "sha256": "a87d7064cadc6db855a6c5d2ba8ce35796177ba5a53f635ce591c9d6a275c911"
+  },
+  {
+    "path": "docs/demo.md",
+    "bytes": 1456,
+    "sha256": "a8dfb4f072441ec0e0c0425864d7a0e73dfc36389b99714ac20e6b108c3ac1d1"
+  },
+  {
+    "path": "docs/deployment.ar.md",
+    "bytes": 2317,
+    "sha256": "2d4c447e4a9740f8de1ee9772cc2e741b75ed76c7d43e2da2728c7db54087932"
+  },
+  {
+    "path": "docs/deployment.md",
+    "bytes": 1825,
+    "sha256": "bfb23532c518c826e65edb4a95fe0b9c652fe7acf33e8a6dd7103da28f20358f"
+  },
+  {
+    "path": "docs/images/admin-dashboard.jpg",
+    "bytes": 75020,
+    "sha256": "f5f9dc3150f00ddcf9491d2c82046f9caa4755e4424d7421f4f3530f819a38d6"
+  },
+  {
+    "path": "docs/setup.ar.md",
+    "bytes": 4048,
+    "sha256": "8e08ed2e08862ff5a280fda788ccc032cb5c182024fcbac747cb3d3ce013c439"
+  },
+  {
+    "path": "docs/setup.md",
+    "bytes": 5288,
+    "sha256": "d03f55ef4ed48d3ed2ef91ae4437902a310cc52c5b972c7e072b74d072c7c48c"
+  },
+  {
+    "path": "docs/verification.ar.md",
+    "bytes": 2050,
+    "sha256": "79f82cdc7686921cb7f5a11595fa2c85a55752b434307220d4f5060d71d2ff17"
+  },
+  {
+    "path": "docs/verification.md",
+    "bytes": 1928,
+    "sha256": "c926ba9b276b087a5213ae5fe3f08c6475b7c86a3816794d6060e5ba074e196e"
+  },
+  {
+    "path": "docs/walkthrough.ar.md",
+    "bytes": 599,
+    "sha256": "c970a8ea345ef4f683994a28b4439f92212dd8c3a13d1a2d9ac5b989cea82230"
+  },
+  {
+    "path": "docs/walkthrough.md",
+    "bytes": 525,
+    "sha256": "e53ba949f4e7766d570dea9e6da244f31571ded1c57a5ac2053b1ac4410cc76b"
+  },
+  {
+    "path": "docs/workflow-diagrams.ar.md",
+    "bytes": 1796,
+    "sha256": "d9b7500457b3c0324648eeb4cc69c0c5e8e41f99f11ef38baed210fbc3550b38"
+  },
+  {
+    "path": "docs/workflow-diagrams.md",
+    "bytes": 1635,
+    "sha256": "03ae108394d2e1d23a9beb11d6d2f53f89576a595168e121e741fc869140489a"
+  },
+  {
+    "path": "driver/.easignore",
+    "bytes": 57,
+    "sha256": "dd1070c2009378cd9e2eb0685d7674c5ed4c73aaf8f0e0b92a40cfb17e797354"
+  },
+  {
+    "path": "driver/.env.example",
+    "bytes": 43,
+    "sha256": "56022baedb23f4e1a55c9ec8eeca429d8cc1d5b412d4cc33434302e74dfc2bdc"
+  },
+  {
+    "path": "driver/android/.gitignore",
+    "bytes": 145,
+    "sha256": "324f03d86fe21f19b999a69e9c5997cf480cad59ceb7c0ab939874cacdc62914"
+  },
+  {
+    "path": "driver/android/app/build.gradle",
+    "bytes": 9303,
+    "sha256": "f71f31d9d33abc9d459cb624fbbc6a2bc3d6dc197e997592d956b75b960f4d61"
+  },
+  {
+    "path": "driver/android/app/proguard-rules.pro",
+    "bytes": 562,
+    "sha256": "8bd4d7b69a1d78e8322b459b5e8d48234adce7481df04da34c0140d52ffb367a"
+  },
+  {
+    "path": "driver/android/app/src/debug/AndroidManifest.xml",
+    "bytes": 381,
+    "sha256": "524511ea714502e140d5b5d013cd27b68f4f92e127d84d9441fa8b4841c6d9c7"
+  },
+  {
+    "path": "driver/android/app/src/main/AndroidManifest.xml",
+    "bytes": 2486,
+    "sha256": "da5efd51a9b42241a566ff92ab2c5318b3b88cc8beb6b6476b00e618e1e1492a"
+  },
+  {
+    "path": "driver/android/app/src/main/java/app/lahda/driver/MainActivity.kt",
+    "bytes": 2247,
+    "sha256": "4713ec05fb110be477be6de73b452f6ab531b5a2ec7a982cc72a17cc09d12563"
+  },
+  {
+    "path": "driver/android/app/src/main/java/app/lahda/driver/MainApplication.kt",
+    "bytes": 2057,
+    "sha256": "92bf2309b84f504ed785aaf46ba3b7bec126bed7d87c0bf655436c9468a965db"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 134,
+    "sha256": "409b06d15a4633ee6f8a2ad48282aad0ce3343f4d8c8f7cb84084de66acce782"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-hdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_error.png",
+    "bytes": 516,
+    "sha256": "337470e7976e461fac1853028c59079447ef77c1a2bd22685684095ef04d1414"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_file.png",
+    "bytes": 158,
+    "sha256": "9d451494722374e78c363bca9a1612ecd2aff9259fb49912155e6bae2685b2a5"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_forward.png",
+    "bytes": 250,
+    "sha256": "bda87077fccd3ca54ecff64af6bf49a2f5020cefa4aab9121cba4d92d0a3004b"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_exporouter_assets_pkg.png",
+    "bytes": 429,
+    "sha256": "ac270f78154365e1006401f715d6fd93c448237148bbf3ef0ea7eb0c0b235144"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 100,
+    "sha256": "8b61a4c7ef70dc92753f0494976482f66fd4150ec23dfc772ab65e10373afa55"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png",
+    "bytes": 913,
+    "sha256": "2c95e8c2675e799335fd0046bb07dbda06cb7ecff51ed37922c6309d619cc4d3"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 258,
+    "sha256": "340db105985a026666d1d0dc557327de9a9d86c24e124ebf51f5bb095a6251c2"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-mdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 134,
+    "sha256": "906666dd689346ada232ce3689adef907b4257fa1b593f03638d2b9497f64884"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 405,
+    "sha256": "9dc5451b4a15b9109ca40dd8f628033665d15e3fe2a007385c37f60468a3c8f7"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 167,
+    "sha256": "ffa7ee45b76405ba73921495008f7d68c9de6395f4b6941db063465f6e382320"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/node_modules_rnmapbox_maps_lib_module_assets_heading.png",
+    "bytes": 687,
+    "sha256": "23f7e613855954b34fd7959f525544f344ae1fe4699988f60932eba3ebcba88c"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png",
+    "bytes": 207,
+    "sha256": "84cf5eb3b20250f69e0e4733beb4da5f417f0682892a5ad1b5e62570753c21b1"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable-xxxhdpi/splashscreen_image.png",
+    "bytes": 70,
+    "sha256": "2f988cb7c47b26b90d4f01deeadf9d2ac350271cb4c65488bbd4b5fdc9177d2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable/rn_edit_text_material.xml",
+    "bytes": 1954,
+    "sha256": "a0ffe99c6c5b933311be2b56a1769600dcdca909289cb4446e58cac2b6c27c7c"
+  },
+  {
+    "path": "driver/android/app/src/main/res/drawable/splashscreen.xml",
+    "bytes": 147,
+    "sha256": "7dc572bc73dfad8e2a22a194c6c30ea06a371fe28cd0921a4a9b6fbd2a111d1a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml",
+    "bytes": 261,
+    "sha256": "01d42446e4472a9f8a704dfa40841d2b8541d414ad73f1a4f580e7d119d93ed0"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml",
+    "bytes": 261,
+    "sha256": "01d42446e4472a9f8a704dfa40841d2b8541d414ad73f1a4f580e7d119d93ed0"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "bytes": 472,
+    "sha256": "0dfa73697ed137b82e14183d6ff0c2999e0a86d3fc2c61a2361d82e0d6553a09"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher_foreground.png",
+    "bytes": 468,
+    "sha256": "b3e55014c0a64eee05ec1321cd2aae8abcf3736410155065bc41d6285b75be28"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png",
+    "bytes": 2214,
+    "sha256": "742070b777e5bc399a8d96763436ce0c0d1e409ed3b4d1a5a2f9aefe5a910dfc"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "bytes": 303,
+    "sha256": "02d655fed29052a4c3e1ba14140677535aea07e7328f2812fd57d9738766055b"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png",
+    "bytes": 298,
+    "sha256": "97e082f7d5cc1a7d137fa2e424ff01eca798c4a75ddeffcaeea3e05fc905eda3"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png",
+    "bytes": 1432,
+    "sha256": "fca17799e72f2963d49c9a9c6b07b81dbfa8434dc1fe74d6fa70be7bec69d9db"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "bytes": 627,
+    "sha256": "4eb453e099714b4cda43c151770f12f087b704aa80438528d9fa8708f3f50ae5"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png",
+    "bytes": 622,
+    "sha256": "e7017f5741f7bb15b15b3dbecf120f4339f71feb947eb42be5a3d10c4af8b58e"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png",
+    "bytes": 3018,
+    "sha256": "1ab5ed6db7482354a49f6b5e618c001eed877e2ff5a325970fe46d637f6e1882"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "bytes": 896,
+    "sha256": "fdcaf612942bb9670ff790bf4f3671aec1bc9a73ce357b9e661a3f8582535468"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png",
+    "bytes": 892,
+    "sha256": "7580334a0e6b86e32dd9cb538cf8e5009abf592a2c04fa9cd408b37e4c67ccbf"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png",
+    "bytes": 4859,
+    "sha256": "92c57965d456427932b2e381feea6f6bbd5c95fc9f08108ece35e5c79991ca99"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "bytes": 1545,
+    "sha256": "806d06e9e8f0cd77f8f9a9ae0f8c6c6abb873d31f7d77481ebacf753f8f2a952"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png",
+    "bytes": 1540,
+    "sha256": "4877e750fb62b54e926ab3c1e2abc7ff08c2bcf5893cd23d81f12817467e7c1c"
+  },
+  {
+    "path": "driver/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png",
+    "bytes": 6663,
+    "sha256": "8b2da48ad563aec02113a030154e6ca8ce15af8cbe3234c88d78debf44859267"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_200extralight_cairo_200extralight.ttf",
+    "bytes": 92740,
+    "sha256": "578f271954ad8b4a49459b07255dcf572025daa0045f3364ce738618d5da81cc"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_300light_cairo_300light.ttf",
+    "bytes": 92800,
+    "sha256": "c137f678a3c8b1f12e730fa58f4ddb5334e78719528015765478c9c2de603d57"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_400regular_cairo_400regular.ttf",
+    "bytes": 94480,
+    "sha256": "44786a38e27c58262cbd65341beda4fa4f6c7085ec42e830b35ba1ae37807030"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_500medium_cairo_500medium.ttf",
+    "bytes": 94644,
+    "sha256": "64c7cab8e2cf003c3fc4edca1820e7e1b0ee667373cf8500060bca97262a2b65"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_600semibold_cairo_600semibold.ttf",
+    "bytes": 94688,
+    "sha256": "3fe2e182a88a5d64a96b289fd1c518bdc9b14ec91525a03990c35e91f7863a2a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_700bold_cairo_700bold.ttf",
+    "bytes": 94652,
+    "sha256": "a0e58d71b85b15902ea87914d8e31a6d22da48ac2db70213dcfd1a7dad3f198a"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_800extrabold_cairo_800extrabold.ttf",
+    "bytes": 94708,
+    "sha256": "67526b4f18bb9bb568e81135df9eec813a15cc1252ae784ea505236e75a5b56e"
+  },
+  {
+    "path": "driver/android/app/src/main/res/raw/node_modules_expogooglefonts_cairo_900black_cairo_900black.ttf",
+    "bytes": 94716,
+    "sha256": "34880d805ad84bb9c195becc1379b89986ee1efc8f7858e276234c04f4de63d9"
+  },
+  {
+    "path": "driver/android/app/src/main/res/values-night/colors.xml",
+    "bytes": 12,
+    "sha256": "c30a9f37e6b34372e1db8c812d64a18719acf7c52c11ff2f7e5e5ed5e05c2072"
+  },
+  {
+    "path": "driver/android/app/src/main/res/values/colors.xml",
+    "bytes": 226,
+    "sha256": "98d07f1ee832c91b1e9f3f4bbe5319c0bcd8c2e111258a5eb25b34fdce7d8e6b"
+  },
+  {
+    "path": "driver/android/app/src/main/res/values/strings.xml",
+    "bytes": 257,
+    "sha256": "09b25a549f5c764f560eac7d01cbaca206d73e42faa99cc24468f8c4699ed771"
+  },
+  {
+    "path": "driver/android/app/src/main/res/values/styles.xml",
+    "bytes": 876,
+    "sha256": "c28b2f18dd4e9453a700f950e5f30d72c39d0b97175fb9db7947ef4c841590dc"
+  },
+  {
+    "path": "driver/android/app/src/main/res/xml/network_security_config.xml",
+    "bytes": 232,
+    "sha256": "54be2adc440aec5cb879a59d989610ae435077796af9f8018eaa5b5b6627327c"
+  },
+  {
+    "path": "driver/android/build.gradle",
+    "bytes": 2698,
+    "sha256": "cd0461eef9b4b8a8dd605b85bf104b359bfda0361dee6e1f5d1feb7cbcb33a0b"
+  },
+  {
+    "path": "driver/android/gradle.properties",
+    "bytes": 2472,
+    "sha256": "a711898beb6bc6aabc7566b7124c3a77fd71dbc50cced138257b5661d5ad1ae9"
+  },
+  {
+    "path": "driver/android/gradle/wrapper/gradle-wrapper.jar",
+    "bytes": 43453,
+    "sha256": "cb0da6751c2b753a16ac168bb354870ebb1e162e9083f116729cec9c781156b8"
+  },
+  {
+    "path": "driver/android/gradle/wrapper/gradle-wrapper.properties",
+    "bytes": 257,
+    "sha256": "d3cb6c48156edfece724fb8d922e5077b391bb59073404b7b19030adebf062bc"
+  },
+  {
+    "path": "driver/android/gradlew",
+    "bytes": 8692,
+    "sha256": "fc977a94723af68aaffa4e5d60496fb4aeed1884b6b19e5e2f2fd7612673313d"
+  },
+  {
+    "path": "driver/android/gradlew.bat",
+    "bytes": 2918,
+    "sha256": "bdecf875b6868cbcbd36a1f85eedf0832f358ff28092c5797ed645f7edce77d9"
+  },
+  {
+    "path": "driver/android/react-settings-plugin/build.gradle.kts",
+    "bytes": 392,
+    "sha256": "29f15130dbd960e4148ea7a039a66c9f954358b3591f4e977f9abaf016bc0f9a"
+  },
+  {
+    "path": "driver/android/react-settings-plugin/src/main/kotlin/expo/plugins/ReactSettingsPlugin.kt",
+    "bytes": 249,
+    "sha256": "c8cc913ba5511a6ececfc4eea30a7de27f2605ea1f348731a77d71362cea178b"
+  },
+  {
+    "path": "driver/android/settings.gradle",
+    "bytes": 2743,
+    "sha256": "09f6a32280041207fe393dedfba20547ef72b2afa6198ddcf115bca547ebf67c"
+  },
+  {
+    "path": "driver/api/client.ts",
+    "bytes": 14312,
+    "sha256": "43511f9650b9943cb8dcb6cd1ad26f08fd41ffca7c285db83a3bfc456a4b761a"
+  },
+  {
+    "path": "driver/app.config.js",
+    "bytes": 623,
+    "sha256": "487b93d4de02a5f389c252a3b75dde8460a0f500acb631b1e8216ade6969b7ef"
+  },
+  {
+    "path": "driver/app.json",
+    "bytes": 1271,
+    "sha256": "0e328cfc5e9c61d5cdaf5a3166f49a473ec2a3769b462c06a67d8cb5390eed15"
+  },
+  {
+    "path": "driver/app/(auth)/_layout.tsx",
+    "bytes": 143,
+    "sha256": "e33178d8d4eb41d4b3f8d10bdf64a99b41e0274cc4fd12f702498a2ca441ba6b"
+  },
+  {
+    "path": "driver/app/(auth)/login.tsx",
+    "bytes": 11114,
+    "sha256": "9e06458b8a28b5f1a40d9c6fff0d9f383535222f2732179408465d18663d342d"
+  },
+  {
+    "path": "driver/app/(driver)/_layout.tsx",
+    "bytes": 2151,
+    "sha256": "8d2f4a31cce2571e46028d8c79cbdf1211f977097fbfd96ad2993fc324976f57"
+  },
+  {
+    "path": "driver/app/(driver)/account.tsx",
+    "bytes": 19652,
+    "sha256": "a6cdfa096f0abb6bc9a1c99c110a073e86331126ebdb432dc067231bc15adb3e"
+  },
+  {
+    "path": "driver/app/(driver)/earnings.tsx",
+    "bytes": 11120,
+    "sha256": "c6b5cdcca4e5a5e60d596fc220da6b10f30bd1f7864a5fc3101142a298b60e10"
+  },
+  {
+    "path": "driver/app/(driver)/index.tsx",
+    "bytes": 24978,
+    "sha256": "d647b1d969c9f6b78c6065092a0a9c1838f393d7d456a5e599f98f5e89ebe415"
+  },
+  {
+    "path": "driver/app/(driver)/orders.tsx",
+    "bytes": 11483,
+    "sha256": "1490d210b4f62a32da523f9d17767beb81356adc0859e50562436b44f18f22b8"
+  },
+  {
+    "path": "driver/app/(driver)/rewards.tsx",
+    "bytes": 23798,
+    "sha256": "116ce087bce7d45b6988e7f7e2de1b2b37007e0430361cf4f841613f654d76ca"
+  },
+  {
+    "path": "driver/app/(merchant)/_layout.tsx",
+    "bytes": 1565,
+    "sha256": "df80199ffeaa309b0db080829201cf283a65cb41a70022fc1044d563894c0c91"
+  },
+  {
+    "path": "driver/app/(merchant)/account/_layout.tsx",
+    "bytes": 155,
+    "sha256": "4a7b2e18cf9fbb50f1b6cd393ef96dc5cc48e5b5ea801998e1f5c6b7c0cef3db"
+  },
+  {
+    "path": "driver/app/(merchant)/account/index.tsx",
+    "bytes": 8265,
+    "sha256": "63c85dd863d5858023740f532db38f1c799113b54cc902f2712cc4fd19c9dde8"
+  },
+  {
+    "path": "driver/app/(merchant)/account/media-location.tsx",
+    "bytes": 13911,
+    "sha256": "39dd68b43869a673dd8b0f3067c3f2d7b613bf7215cc5ea11912df05a2f8aaba"
+  },
+  {
+    "path": "driver/app/(merchant)/account/promo-codes.tsx",
+    "bytes": 26967,
+    "sha256": "43e32e0173ac3fa0147fb95ce916b4bd50e1f616c91fb24f8342d568f4be8fde"
+  },
+  {
+    "path": "driver/app/(merchant)/account/security.tsx",
+    "bytes": 8385,
+    "sha256": "ee20ab077cba92acbfe9c72a5c43060bb85b75b017232b5bac6a6363c90d20f6"
+  },
+  {
+    "path": "driver/app/(merchant)/account/status.tsx",
+    "bytes": 4997,
+    "sha256": "fa295c7c374d91691300aecc1408c86729046ea647cb419bf1037cc59e83e36c"
+  },
+  {
+    "path": "driver/app/(merchant)/account/store.tsx",
+    "bytes": 7951,
+    "sha256": "da49849c4a2a9cea0575a4d042b07444d39ab9f157500ca615547f5552aa3591"
+  },
+  {
+    "path": "driver/app/(merchant)/finance.tsx",
+    "bytes": 12505,
+    "sha256": "2a059ae76eec8b02e8de8f4282ee15b9e82f3d9df65931a9bfc07df7d49d6741"
+  },
+  {
+    "path": "driver/app/(merchant)/index.tsx",
+    "bytes": 19711,
+    "sha256": "53308034e535e5f0dcd8565958bfd43792d2e0da9a5d9477269dcb0d2c947a2a"
+  },
+  {
+    "path": "driver/app/(merchant)/orders.tsx",
+    "bytes": 11422,
+    "sha256": "b08646fc28c3c474352742e2933ce553dde0b449c806f46fe004a22438a2aec8"
+  },
+  {
+    "path": "driver/app/(merchant)/products/[id].tsx",
+    "bytes": 17038,
+    "sha256": "508f43ac287faca2e886e062f2158d74712ebbfcb6c54100f449d71c13781353"
+  },
+  {
+    "path": "driver/app/(merchant)/products/_layout.tsx",
+    "bytes": 187,
+    "sha256": "a290a785d4518ddef703f3d9cbf13e178de57f87d6e49e3785e88b1d62e32ece"
+  },
+  {
+    "path": "driver/app/(merchant)/products/categories.tsx",
+    "bytes": 9515,
+    "sha256": "3b2c989fe4f5922516bad4e8ae8adf902cb6b383ce370eb4464e08b01d11dca4"
+  },
+  {
+    "path": "driver/app/(merchant)/products/index.tsx",
+    "bytes": 11451,
+    "sha256": "ead7604719aba5a7df2c183a4a557e6661a08add633df60b8f80b7a3efafbd2e"
+  },
+  {
+    "path": "driver/app/(merchant)/products/new.tsx",
+    "bytes": 7526,
+    "sha256": "e5fb818898c1c7af564b30e2de901577fc8caab2a67b369bed7ead6dbcae3b97"
+  },
+  {
+    "path": "driver/app/_layout.tsx",
+    "bytes": 1952,
+    "sha256": "e6baf14ecab17bef86e30024703417eb4a8a30b4846a516ca88b34b787d44e92"
+  },
+  {
+    "path": "driver/app/daily-cod.tsx",
+    "bytes": 14323,
+    "sha256": "55ad08cc078e76f39aa660c200ea46b0e6a73bf1f2639c599c12fb3d34514ead"
+  },
+  {
+    "path": "driver/app/index.tsx",
+    "bytes": 498,
+    "sha256": "b7120c2444888f70b83c9cefa0c57e3a6c56cbe3ea68352a5fe33834c4a3efcf"
+  },
+  {
+    "path": "driver/app/notifications.tsx",
+    "bytes": 8184,
+    "sha256": "4c58a4dc0e58df95b71919182847090bb2f7750934fc729cbd43bd9a19d753f3"
+  },
+  {
+    "path": "driver/app/order/[id].tsx",
+    "bytes": 56832,
+    "sha256": "6077e2047168bbed6231f2ae957a151cc64a1a610c73205563451f351fe10e2d"
+  },
+  {
+    "path": "driver/app/unauthorized.tsx",
+    "bytes": 1594,
+    "sha256": "58fb7acb702ebd5695d456745d38b9a0a5b73080f58c708244cf327c93305362"
+  },
+  {
+    "path": "driver/assets/adaptive-icon.png",
+    "bytes": 70,
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77"
+  },
+  {
+    "path": "driver/assets/app-logo.png",
+    "bytes": 44621,
+    "sha256": "bfbdcc14ddcca331cc3fbbc8fa7f8cb5c45b3ae4bdd69213b1229211ae91fa19"
+  },
+  {
+    "path": "driver/assets/icon.png",
+    "bytes": 70,
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77"
+  },
+  {
+    "path": "driver/assets/pt-logo.png",
+    "bytes": 52428,
+    "sha256": "1fffe0842b0b42e2ddbf717e5487ddbac5041f80d14556a0809d41abce7670e4"
+  },
+  {
+    "path": "driver/assets/splash-icon.png",
+    "bytes": 70,
+    "sha256": "c414cd0e204de974f73753c7e28d7638e7b3691bb8b1a2bab6b25bb7fed7ce77"
+  },
+  {
+    "path": "driver/components/DriverDashboardStats.tsx",
+    "bytes": 7525,
+    "sha256": "275b60b531ff26cb3212c37b4292c1ffa63129c82a3ee859379f3897968a571e"
+  },
+  {
+    "path": "driver/components/EarningsChart.tsx",
+    "bytes": 6103,
+    "sha256": "0cffd8c8edfb7c27d77d9ad208f8a159b33ebb651990eabc77306386243f4b70"
+  },
+  {
+    "path": "driver/components/Icons.tsx",
+    "bytes": 13776,
+    "sha256": "28e82e9eb68b51285be8fb9fad91b938b52ee118eb9cfd64775d05f8b72454a6"
+  },
+  {
+    "path": "driver/components/MapMapbox.tsx",
+    "bytes": 4322,
+    "sha256": "ee3f109a84682fb3d72d5318145913c02ab3846a1463040cb6c97ba1b0ef5ed4"
+  },
+  {
+    "path": "driver/components/MapOSM.tsx",
+    "bytes": 16737,
+    "sha256": "dd58e958df455a9812d0a61c85a5d582a748e082064bc0fc58880b440870ce86"
+  },
+  {
+    "path": "driver/components/MerchantChart.tsx",
+    "bytes": 7249,
+    "sha256": "15a6148d7b04f89786f1e457bf28f78ffb9f09c3530b42a5403b98d276396c81"
+  },
+  {
+    "path": "driver/components/MerchantStats.tsx",
+    "bytes": 10811,
+    "sha256": "9ce5854727a4ce7cda9ec9f6b4c9ab0d5c1586ba532d50550fb30ca6b082bb9f"
+  },
+  {
+    "path": "driver/components/OrderMap.tsx",
+    "bytes": 891,
+    "sha256": "7b0d3f8a130e9d7eabf8118b4c33bb46c198d2711bfa0ae43190dd9395b8fb80"
+  },
+  {
+    "path": "driver/components/OrderMapMapbox.tsx",
+    "bytes": 8252,
+    "sha256": "46a7797e5e705a186c045115cc7292187aea8165248fdedcc6578b6b3e3fd887"
+  },
+  {
+    "path": "driver/components/OrderMapOSM.tsx",
+    "bytes": 18660,
+    "sha256": "6526919112c3b9c08e98b1c4df8341b1ed2950cb77009fc1ac755910cb2280d0"
+  },
+  {
+    "path": "driver/components/SplashScreen.tsx",
+    "bytes": 7185,
+    "sha256": "b46f2eee60c41c5f1d4478f930c65ecd4526a3a074ae077efa700787ad0996ba"
+  },
+  {
+    "path": "driver/components/StoreLocationMap.tsx",
+    "bytes": 924,
+    "sha256": "9d552c6c3270420f066a8666d8f84a02ab84863c47d2ca7eec6ef11dbe56d1a6"
+  },
+  {
+    "path": "driver/components/ui/Badge.tsx",
+    "bytes": 1504,
+    "sha256": "a5c7775cedc75889a56d6a2f2304365cc3cf33297c97945b39b5434f8f6115de"
+  },
+  {
+    "path": "driver/components/ui/Button.tsx",
+    "bytes": 1903,
+    "sha256": "5971e937beaa0986c99a39e51bca41842ff3d9085c8d3110865fbf46af796772"
+  },
+  {
+    "path": "driver/components/ui/Card.tsx",
+    "bytes": 815,
+    "sha256": "fdcd291c5c69bcf269ab152f63c03c361b337e22901045f72cdb73fc16a0d2d3"
+  },
+  {
+    "path": "driver/components/ui/EmptyState.tsx",
+    "bytes": 873,
+    "sha256": "86fc29e9412bb81e0527ba2e85d00271f95733e5e0a0147bd662b0ecfe4f144f"
+  },
+  {
+    "path": "driver/components/ui/SectionHeader.tsx",
+    "bytes": 916,
+    "sha256": "cb5e0c2b1c70f29682042988efc97cfd03bc39a5b71c375223d26b6df76b5f4f"
+  },
+  {
+    "path": "driver/components/ui/StatTile.tsx",
+    "bytes": 962,
+    "sha256": "b46dc4d2a12e822df315a2c9a4a1e2d0f0f44aff893268a9c4be8d6dc498fdbe"
+  },
+  {
+    "path": "driver/constants/theme.ts",
+    "bytes": 1554,
+    "sha256": "f461f7d242485493af85d2e0efc8fcbe63449c4a91b02bd610f895e7ffdf6f4a"
+  },
+  {
+    "path": "driver/contexts/AuthContext.tsx",
+    "bytes": 3244,
+    "sha256": "e2799d1128f3ea27c81688b0cebfd1e079812b0d3ce9d6d20160f58ae179a47a"
+  },
+  {
+    "path": "driver/eas.json",
+    "bytes": 459,
+    "sha256": "720838cef9cb4c78c6c77e4ccbd7000d8f7cc1b52d1d5d5c8b41ce88f3fd7d07"
+  },
+  {
+    "path": "driver/hooks/useNotifications.ts",
+    "bytes": 4912,
+    "sha256": "0ed272579518fbabe459eca3e8f3ed7d01f1aac43a97550b2679dcc849d0a5be"
+  },
+  {
+    "path": "driver/index.js",
+    "bytes": 29,
+    "sha256": "a182f83ec040c4075b603c473abf3d4bbbd60e545890ae25298ac3923eeaad74"
+  },
+  {
+    "path": "driver/lib/mapbox.ts",
+    "bytes": 719,
+    "sha256": "d75331123fd02f134a36a1294310405113b018aebde3a7a69a4ee2c6cc2b84ef"
+  },
+  {
+    "path": "driver/lib/useNativeMapbox.ts",
+    "bytes": 223,
+    "sha256": "9ad93dafdf6c7a5010b5d5343f635911e8468bd5c63073545542648272f6e938"
+  },
+  {
+    "path": "driver/metro.config.js",
+    "bytes": 864,
+    "sha256": "c4e4f7dfba4d3d8bebe6e69eb57a2d126a965895260aa216184e9934b3fe884a"
+  },
+  {
+    "path": "driver/package-lock.json",
+    "bytes": 657908,
+    "sha256": "f0ec72e6f92b076f7962e19ef06531c75669fbfef46e4b520d9e7da8f42ddab7"
+  },
+  {
+    "path": "driver/package.json",
+    "bytes": 1565,
+    "sha256": "23db2ae65b98cc89a08d511fa7918e824847d0e991b98450ead36e381ee6c54a"
+  },
+  {
+    "path": "driver/plugins/fix-activity-version.js",
+    "bytes": 858,
+    "sha256": "0e7e4985bed5eefacd24e8dee14e422267afd90908ec4a098e0a963e37ee2eb5"
+  },
+  {
+    "path": "driver/pnpm-lock.yaml",
+    "bytes": 372152,
+    "sha256": "df5aa3054c248389f4f857b34b7d2211345bad670bca4e8be9bd587c4065c239"
+  },
+  {
+    "path": "driver/tsconfig.json",
+    "bytes": 185,
+    "sha256": "b1ac7f356d52fdcf5bd10696dca66bc47b96fbd38312f35fe006b400868de2d8"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 30,
+    "sha256": "0c2920a1f80f3730b369de109b42319999a0725f7dcbc8a213e92be2c649ccad"
+  }
+]

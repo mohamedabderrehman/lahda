@@ -92,3 +92,22 @@ Open an issue describing a reproducible problem, expected behavior and component
 ## License and attribution
 
 Source code is MIT licensed. Third-party dependencies and assets retain their own terms; see [attribution](THIRD_PARTY_NOTICES.md).
+
+<!-- release-presentation -->
+
+## Actual application interface
+
+![Lahda — interface with synthetic demonstration data](docs/images/admin-dashboard.jpg)
+
+Captured from the local application with synthetic records. This does not establish production usage or Android device verification.
+
+## Verification and deeper reading
+
+API and admin production builds passed. Fresh PostgreSQL initialization applied all 16 Prisma migrations. The synthetic acceptance script passed customer/merchant/driver/admin authentication, rejected admin self-registration and foreign-order access, verified a 10% discount, completed delivery, checked one driver earning and merchant entry, repeated delivery without additional entries, rejected terminal-state regression, and confirmed a remittance once.
+
+Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent financial updates and multi-device notification delivery remain unverified. Repeated sequential updates passed; this is not proof of every concurrency scenario. Stop the API before Prisma generation/reset on Windows to avoid a locked query-engine DLL.
+
+- [Case study](docs/case-study.md)
+- [Verification](docs/verification.md)
+- [Architecture diagram](docs/architecture.svg)
+- [Portfolio case study](https://mohamed-abderrehmane-portfolio.wry-dog-0796.chatgpt.site/projects/lahda/)
