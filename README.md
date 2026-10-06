@@ -113,3 +113,5 @@ Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent 
 - [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/lahda/)
 
 - [Interface walkthrough and video](docs/walkthrough.md)
+
+- [Engineering details and implementation lessons](docs/engineering-notes.md)

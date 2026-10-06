@@ -21,13 +21,13 @@
   },
   {
     "path": "README.ar.md",
-    "bytes": 7611,
-    "sha256": "73cc144760d92d8c726122d798481e9a30dc3e2a84ca5d499ea105ea79f61474"
+    "bytes": 7700,
+    "sha256": "82d6f0949df8db0516942ff72bce949f3b6a634000d4299199d65c7460a03aec"
   },
   {
     "path": "README.md",
-    "bytes": 6772,
-    "sha256": "f1dd3b46b705f51d1ed9f93907d0115d15e3c6f1f00cb450839287737121ee60"
+    "bytes": 6853,
+    "sha256": "c8a175436f682e2657db23de3302463c2930a40c0a9f093def0d3a9173b6ece1"
   },
   {
     "path": "SECURITY.md",
@@ -1853,6 +1853,16 @@
     "path": "docs/deployment.md",
     "bytes": 1825,
     "sha256": "bfb23532c518c826e65edb4a95fe0b9c652fe7acf33e8a6dd7103da28f20358f"
+  },
+  {
+    "path": "docs/engineering-notes.ar.md",
+    "bytes": 2108,
+    "sha256": "b912e1893f1aa8cd2574c43c3c15c1f8ead08cf111404c9e9753221c367a6c13"
+  },
+  {
+    "path": "docs/engineering-notes.md",
+    "bytes": 1660,
+    "sha256": "866d2d25c2a4c7483aecc19a0b28cd83a366993e9dce57d17ce8f9e1e61494aa"
   },
   {
     "path": "docs/images/admin-dashboard.jpg",

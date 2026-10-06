@@ -103,3 +103,5 @@ API -. optional .-> Firebase
 - [صفحة المشروع](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/ar/projects/lahda/)
 
 - [جولة الواجهة والفيديو](docs/walkthrough.ar.md)
+
+- [تفاصيل هندسية ودروس التنفيذ](docs/engineering-notes.ar.md)
