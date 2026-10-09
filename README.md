@@ -110,7 +110,7 @@ Android builds/device walkthroughs, fresh maps/Firebase integration, concurrent 
 - [Case study](docs/case-study.md)
 - [Verification](docs/verification.md)
 - [Architecture diagram](docs/architecture.svg)
-- [Portfolio case study](https://mohamed-abderrehmane-portfolio.hillock-factual9mupt.chatgpt.site/projects/lahda/)
+- [Portfolio case study](https://mohamedabderrehmane.netlify.app/projects/lahda/)
 
 - [Interface walkthrough and video](docs/walkthrough.md)
 
